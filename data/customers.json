@@ -1,0 +1,5002 @@
+[
+    {
+        "customer_id": "CUST-001",
+        "name": "Enterprise Partner 1",
+        "industry": "E-commerce",
+        "product_tier": "Growth",
+        "tenure_months": 12,
+        "engagement_score": 3.4,
+        "acquisition_date": "2026-03-28",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-002",
+        "name": "Enterprise Partner 2",
+        "industry": "Logistics",
+        "product_tier": "Growth",
+        "tenure_months": 16,
+        "engagement_score": 6.0,
+        "acquisition_date": "2026-05-18",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-003",
+        "name": "Enterprise Partner 3",
+        "industry": "Fintech",
+        "product_tier": "Enterprise",
+        "tenure_months": 18,
+        "engagement_score": 5.5,
+        "acquisition_date": "2026-05-03",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-004",
+        "name": "Enterprise Partner 4",
+        "industry": "SaaS",
+        "product_tier": "Startup",
+        "tenure_months": 3,
+        "engagement_score": 2.5,
+        "acquisition_date": "2026-02-17",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-005",
+        "name": "Enterprise Partner 5",
+        "industry": "Healthcare",
+        "product_tier": "Startup",
+        "tenure_months": 11,
+        "engagement_score": 4.6,
+        "acquisition_date": "2026-03-27",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-006",
+        "name": "Enterprise Partner 6",
+        "industry": "Fintech",
+        "product_tier": "Growth",
+        "tenure_months": 23,
+        "engagement_score": 3.0,
+        "acquisition_date": "2026-03-15",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-007",
+        "name": "Enterprise Partner 7",
+        "industry": "E-commerce",
+        "product_tier": "Growth",
+        "tenure_months": 2,
+        "engagement_score": 8.6,
+        "acquisition_date": "2026-03-22",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-008",
+        "name": "Enterprise Partner 8",
+        "industry": "Logistics",
+        "product_tier": "Startup",
+        "tenure_months": 16,
+        "engagement_score": 4.1,
+        "acquisition_date": "2026-05-31",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-009",
+        "name": "Enterprise Partner 9",
+        "industry": "Fintech",
+        "product_tier": "Growth",
+        "tenure_months": 6,
+        "engagement_score": 3.4,
+        "acquisition_date": "2026-03-28",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-010",
+        "name": "Enterprise Partner 10",
+        "industry": "Fintech",
+        "product_tier": "Growth",
+        "tenure_months": 2,
+        "engagement_score": 5.0,
+        "acquisition_date": "2026-02-24",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-011",
+        "name": "Enterprise Partner 11",
+        "industry": "Fintech",
+        "product_tier": "Growth",
+        "tenure_months": 6,
+        "engagement_score": 2.9,
+        "acquisition_date": "2026-04-13",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-012",
+        "name": "Enterprise Partner 12",
+        "industry": "Logistics",
+        "product_tier": "Startup",
+        "tenure_months": 20,
+        "engagement_score": 9.4,
+        "acquisition_date": "2026-04-26",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-013",
+        "name": "Enterprise Partner 13",
+        "industry": "Logistics",
+        "product_tier": "Startup",
+        "tenure_months": 24,
+        "engagement_score": 8.4,
+        "acquisition_date": "2026-03-08",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-014",
+        "name": "Enterprise Partner 14",
+        "industry": "Fintech",
+        "product_tier": "Growth",
+        "tenure_months": 16,
+        "engagement_score": 6.3,
+        "acquisition_date": "2026-02-10",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-015",
+        "name": "Enterprise Partner 15",
+        "industry": "SaaS",
+        "product_tier": "Growth",
+        "tenure_months": 5,
+        "engagement_score": 8.2,
+        "acquisition_date": "2026-01-16",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-016",
+        "name": "Enterprise Partner 16",
+        "industry": "Fintech",
+        "product_tier": "Growth",
+        "tenure_months": 13,
+        "engagement_score": 2.3,
+        "acquisition_date": "2026-03-02",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-017",
+        "name": "Enterprise Partner 17",
+        "industry": "Logistics",
+        "product_tier": "Startup",
+        "tenure_months": 12,
+        "engagement_score": 5.8,
+        "acquisition_date": "2026-05-03",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-018",
+        "name": "Enterprise Partner 18",
+        "industry": "Fintech",
+        "product_tier": "Enterprise",
+        "tenure_months": 14,
+        "engagement_score": 8.5,
+        "acquisition_date": "2026-02-01",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-019",
+        "name": "Enterprise Partner 19",
+        "industry": "E-commerce",
+        "product_tier": "Growth",
+        "tenure_months": 18,
+        "engagement_score": 8.5,
+        "acquisition_date": "2026-01-24",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-020",
+        "name": "Enterprise Partner 20",
+        "industry": "E-commerce",
+        "product_tier": "Startup",
+        "tenure_months": 17,
+        "engagement_score": 9.9,
+        "acquisition_date": "2026-01-05",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-021",
+        "name": "Enterprise Partner 21",
+        "industry": "Fintech",
+        "product_tier": "Startup",
+        "tenure_months": 2,
+        "engagement_score": 6.6,
+        "acquisition_date": "2026-05-27",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-022",
+        "name": "Enterprise Partner 22",
+        "industry": "Healthcare",
+        "product_tier": "Enterprise",
+        "tenure_months": 11,
+        "engagement_score": 9.3,
+        "acquisition_date": "2026-02-06",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-023",
+        "name": "Enterprise Partner 23",
+        "industry": "E-commerce",
+        "product_tier": "Enterprise",
+        "tenure_months": 19,
+        "engagement_score": 6.0,
+        "acquisition_date": "2026-04-01",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-024",
+        "name": "Enterprise Partner 24",
+        "industry": "Logistics",
+        "product_tier": "Startup",
+        "tenure_months": 20,
+        "engagement_score": 3.4,
+        "acquisition_date": "2026-01-23",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-025",
+        "name": "Enterprise Partner 25",
+        "industry": "Healthcare",
+        "product_tier": "Startup",
+        "tenure_months": 13,
+        "engagement_score": 4.7,
+        "acquisition_date": "2026-01-27",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-026",
+        "name": "Enterprise Partner 26",
+        "industry": "Fintech",
+        "product_tier": "Startup",
+        "tenure_months": 17,
+        "engagement_score": 5.4,
+        "acquisition_date": "2026-02-15",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-027",
+        "name": "Enterprise Partner 27",
+        "industry": "Fintech",
+        "product_tier": "Growth",
+        "tenure_months": 4,
+        "engagement_score": 3.2,
+        "acquisition_date": "2026-03-07",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-028",
+        "name": "Enterprise Partner 28",
+        "industry": "E-commerce",
+        "product_tier": "Growth",
+        "tenure_months": 7,
+        "engagement_score": 7.2,
+        "acquisition_date": "2026-02-12",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-029",
+        "name": "Enterprise Partner 29",
+        "industry": "Healthcare",
+        "product_tier": "Growth",
+        "tenure_months": 13,
+        "engagement_score": 3.8,
+        "acquisition_date": "2026-04-03",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-030",
+        "name": "Enterprise Partner 30",
+        "industry": "Healthcare",
+        "product_tier": "Startup",
+        "tenure_months": 13,
+        "engagement_score": 10.0,
+        "acquisition_date": "2026-03-16",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-031",
+        "name": "Enterprise Partner 31",
+        "industry": "SaaS",
+        "product_tier": "Growth",
+        "tenure_months": 1,
+        "engagement_score": 4.0,
+        "acquisition_date": "2026-02-12",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-032",
+        "name": "Enterprise Partner 32",
+        "industry": "Logistics",
+        "product_tier": "Enterprise",
+        "tenure_months": 18,
+        "engagement_score": 3.1,
+        "acquisition_date": "2026-01-05",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-033",
+        "name": "Enterprise Partner 33",
+        "industry": "Fintech",
+        "product_tier": "Growth",
+        "tenure_months": 10,
+        "engagement_score": 7.8,
+        "acquisition_date": "2026-03-30",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-034",
+        "name": "Enterprise Partner 34",
+        "industry": "Logistics",
+        "product_tier": "Enterprise",
+        "tenure_months": 11,
+        "engagement_score": 7.8,
+        "acquisition_date": "2026-05-29",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-035",
+        "name": "Enterprise Partner 35",
+        "industry": "Fintech",
+        "product_tier": "Startup",
+        "tenure_months": 5,
+        "engagement_score": 2.3,
+        "acquisition_date": "2026-03-18",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-036",
+        "name": "Enterprise Partner 36",
+        "industry": "Healthcare",
+        "product_tier": "Enterprise",
+        "tenure_months": 13,
+        "engagement_score": 3.5,
+        "acquisition_date": "2026-04-14",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-037",
+        "name": "Enterprise Partner 37",
+        "industry": "Healthcare",
+        "product_tier": "Startup",
+        "tenure_months": 16,
+        "engagement_score": 6.6,
+        "acquisition_date": "2026-04-09",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-038",
+        "name": "Enterprise Partner 38",
+        "industry": "SaaS",
+        "product_tier": "Enterprise",
+        "tenure_months": 23,
+        "engagement_score": 5.8,
+        "acquisition_date": "2026-01-20",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-039",
+        "name": "Enterprise Partner 39",
+        "industry": "Fintech",
+        "product_tier": "Growth",
+        "tenure_months": 9,
+        "engagement_score": 8.8,
+        "acquisition_date": "2026-01-10",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-040",
+        "name": "Enterprise Partner 40",
+        "industry": "SaaS",
+        "product_tier": "Startup",
+        "tenure_months": 9,
+        "engagement_score": 9.2,
+        "acquisition_date": "2026-05-24",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-041",
+        "name": "Enterprise Partner 41",
+        "industry": "Logistics",
+        "product_tier": "Enterprise",
+        "tenure_months": 12,
+        "engagement_score": 6.9,
+        "acquisition_date": "2026-02-09",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-042",
+        "name": "Enterprise Partner 42",
+        "industry": "Logistics",
+        "product_tier": "Growth",
+        "tenure_months": 7,
+        "engagement_score": 2.0,
+        "acquisition_date": "2026-04-01",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-043",
+        "name": "Enterprise Partner 43",
+        "industry": "Healthcare",
+        "product_tier": "Enterprise",
+        "tenure_months": 16,
+        "engagement_score": 3.8,
+        "acquisition_date": "2026-05-27",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-044",
+        "name": "Enterprise Partner 44",
+        "industry": "SaaS",
+        "product_tier": "Startup",
+        "tenure_months": 3,
+        "engagement_score": 4.1,
+        "acquisition_date": "2026-04-01",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-045",
+        "name": "Enterprise Partner 45",
+        "industry": "SaaS",
+        "product_tier": "Startup",
+        "tenure_months": 9,
+        "engagement_score": 7.7,
+        "acquisition_date": "2026-02-23",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-046",
+        "name": "Enterprise Partner 46",
+        "industry": "E-commerce",
+        "product_tier": "Growth",
+        "tenure_months": 21,
+        "engagement_score": 4.1,
+        "acquisition_date": "2026-01-26",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-047",
+        "name": "Enterprise Partner 47",
+        "industry": "Logistics",
+        "product_tier": "Enterprise",
+        "tenure_months": 10,
+        "engagement_score": 6.2,
+        "acquisition_date": "2026-03-06",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-048",
+        "name": "Enterprise Partner 48",
+        "industry": "SaaS",
+        "product_tier": "Enterprise",
+        "tenure_months": 17,
+        "engagement_score": 3.0,
+        "acquisition_date": "2026-03-26",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-049",
+        "name": "Enterprise Partner 49",
+        "industry": "SaaS",
+        "product_tier": "Growth",
+        "tenure_months": 4,
+        "engagement_score": 3.3,
+        "acquisition_date": "2026-05-18",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-050",
+        "name": "Enterprise Partner 50",
+        "industry": "Logistics",
+        "product_tier": "Startup",
+        "tenure_months": 3,
+        "engagement_score": 10.0,
+        "acquisition_date": "2026-03-25",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-051",
+        "name": "Enterprise Partner 51",
+        "industry": "SaaS",
+        "product_tier": "Enterprise",
+        "tenure_months": 17,
+        "engagement_score": 8.9,
+        "acquisition_date": "2026-05-20",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-052",
+        "name": "Enterprise Partner 52",
+        "industry": "Fintech",
+        "product_tier": "Startup",
+        "tenure_months": 21,
+        "engagement_score": 7.6,
+        "acquisition_date": "2026-03-07",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-053",
+        "name": "Enterprise Partner 53",
+        "industry": "SaaS",
+        "product_tier": "Enterprise",
+        "tenure_months": 12,
+        "engagement_score": 9.0,
+        "acquisition_date": "2026-01-17",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-054",
+        "name": "Enterprise Partner 54",
+        "industry": "E-commerce",
+        "product_tier": "Growth",
+        "tenure_months": 3,
+        "engagement_score": 7.6,
+        "acquisition_date": "2026-01-31",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-055",
+        "name": "Enterprise Partner 55",
+        "industry": "SaaS",
+        "product_tier": "Growth",
+        "tenure_months": 11,
+        "engagement_score": 5.9,
+        "acquisition_date": "2026-02-16",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-056",
+        "name": "Enterprise Partner 56",
+        "industry": "Healthcare",
+        "product_tier": "Enterprise",
+        "tenure_months": 16,
+        "engagement_score": 2.7,
+        "acquisition_date": "2026-04-11",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-057",
+        "name": "Enterprise Partner 57",
+        "industry": "Fintech",
+        "product_tier": "Enterprise",
+        "tenure_months": 3,
+        "engagement_score": 6.7,
+        "acquisition_date": "2026-03-26",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-058",
+        "name": "Enterprise Partner 58",
+        "industry": "E-commerce",
+        "product_tier": "Enterprise",
+        "tenure_months": 16,
+        "engagement_score": 3.0,
+        "acquisition_date": "2026-02-19",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-059",
+        "name": "Enterprise Partner 59",
+        "industry": "SaaS",
+        "product_tier": "Startup",
+        "tenure_months": 18,
+        "engagement_score": 6.2,
+        "acquisition_date": "2026-01-17",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-060",
+        "name": "Enterprise Partner 60",
+        "industry": "Healthcare",
+        "product_tier": "Enterprise",
+        "tenure_months": 23,
+        "engagement_score": 3.6,
+        "acquisition_date": "2026-02-08",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-061",
+        "name": "Enterprise Partner 61",
+        "industry": "Healthcare",
+        "product_tier": "Startup",
+        "tenure_months": 23,
+        "engagement_score": 3.4,
+        "acquisition_date": "2026-01-22",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-062",
+        "name": "Enterprise Partner 62",
+        "industry": "Fintech",
+        "product_tier": "Startup",
+        "tenure_months": 13,
+        "engagement_score": 4.2,
+        "acquisition_date": "2026-04-30",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-063",
+        "name": "Enterprise Partner 63",
+        "industry": "SaaS",
+        "product_tier": "Startup",
+        "tenure_months": 1,
+        "engagement_score": 2.0,
+        "acquisition_date": "2026-04-29",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-064",
+        "name": "Enterprise Partner 64",
+        "industry": "Healthcare",
+        "product_tier": "Startup",
+        "tenure_months": 1,
+        "engagement_score": 4.7,
+        "acquisition_date": "2026-02-07",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-065",
+        "name": "Enterprise Partner 65",
+        "industry": "Healthcare",
+        "product_tier": "Enterprise",
+        "tenure_months": 6,
+        "engagement_score": 8.2,
+        "acquisition_date": "2026-05-28",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-066",
+        "name": "Enterprise Partner 66",
+        "industry": "Logistics",
+        "product_tier": "Enterprise",
+        "tenure_months": 17,
+        "engagement_score": 9.7,
+        "acquisition_date": "2026-03-01",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-067",
+        "name": "Enterprise Partner 67",
+        "industry": "Fintech",
+        "product_tier": "Enterprise",
+        "tenure_months": 18,
+        "engagement_score": 2.9,
+        "acquisition_date": "2026-04-20",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-068",
+        "name": "Enterprise Partner 68",
+        "industry": "Logistics",
+        "product_tier": "Enterprise",
+        "tenure_months": 20,
+        "engagement_score": 7.5,
+        "acquisition_date": "2026-03-31",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-069",
+        "name": "Enterprise Partner 69",
+        "industry": "SaaS",
+        "product_tier": "Growth",
+        "tenure_months": 1,
+        "engagement_score": 9.5,
+        "acquisition_date": "2026-05-03",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-070",
+        "name": "Enterprise Partner 70",
+        "industry": "Fintech",
+        "product_tier": "Startup",
+        "tenure_months": 5,
+        "engagement_score": 4.9,
+        "acquisition_date": "2026-01-16",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-071",
+        "name": "Enterprise Partner 71",
+        "industry": "SaaS",
+        "product_tier": "Startup",
+        "tenure_months": 21,
+        "engagement_score": 7.2,
+        "acquisition_date": "2026-02-16",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-072",
+        "name": "Enterprise Partner 72",
+        "industry": "E-commerce",
+        "product_tier": "Startup",
+        "tenure_months": 17,
+        "engagement_score": 6.4,
+        "acquisition_date": "2026-02-24",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-073",
+        "name": "Enterprise Partner 73",
+        "industry": "SaaS",
+        "product_tier": "Enterprise",
+        "tenure_months": 13,
+        "engagement_score": 8.8,
+        "acquisition_date": "2026-01-10",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-074",
+        "name": "Enterprise Partner 74",
+        "industry": "SaaS",
+        "product_tier": "Enterprise",
+        "tenure_months": 3,
+        "engagement_score": 9.0,
+        "acquisition_date": "2026-03-09",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-075",
+        "name": "Enterprise Partner 75",
+        "industry": "Healthcare",
+        "product_tier": "Growth",
+        "tenure_months": 13,
+        "engagement_score": 5.8,
+        "acquisition_date": "2026-03-17",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-076",
+        "name": "Enterprise Partner 76",
+        "industry": "E-commerce",
+        "product_tier": "Startup",
+        "tenure_months": 17,
+        "engagement_score": 2.8,
+        "acquisition_date": "2026-02-08",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-077",
+        "name": "Enterprise Partner 77",
+        "industry": "Fintech",
+        "product_tier": "Enterprise",
+        "tenure_months": 15,
+        "engagement_score": 4.6,
+        "acquisition_date": "2026-04-14",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-078",
+        "name": "Enterprise Partner 78",
+        "industry": "Logistics",
+        "product_tier": "Startup",
+        "tenure_months": 11,
+        "engagement_score": 6.9,
+        "acquisition_date": "2026-05-05",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-079",
+        "name": "Enterprise Partner 79",
+        "industry": "Fintech",
+        "product_tier": "Growth",
+        "tenure_months": 17,
+        "engagement_score": 4.4,
+        "acquisition_date": "2026-05-10",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-080",
+        "name": "Enterprise Partner 80",
+        "industry": "E-commerce",
+        "product_tier": "Startup",
+        "tenure_months": 22,
+        "engagement_score": 4.6,
+        "acquisition_date": "2026-03-21",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-081",
+        "name": "Enterprise Partner 81",
+        "industry": "SaaS",
+        "product_tier": "Growth",
+        "tenure_months": 4,
+        "engagement_score": 3.1,
+        "acquisition_date": "2026-04-08",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-082",
+        "name": "Enterprise Partner 82",
+        "industry": "SaaS",
+        "product_tier": "Enterprise",
+        "tenure_months": 19,
+        "engagement_score": 6.2,
+        "acquisition_date": "2026-02-22",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-083",
+        "name": "Enterprise Partner 83",
+        "industry": "SaaS",
+        "product_tier": "Growth",
+        "tenure_months": 5,
+        "engagement_score": 7.1,
+        "acquisition_date": "2026-02-08",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-084",
+        "name": "Enterprise Partner 84",
+        "industry": "E-commerce",
+        "product_tier": "Enterprise",
+        "tenure_months": 13,
+        "engagement_score": 8.9,
+        "acquisition_date": "2026-03-26",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-085",
+        "name": "Enterprise Partner 85",
+        "industry": "Healthcare",
+        "product_tier": "Startup",
+        "tenure_months": 22,
+        "engagement_score": 9.4,
+        "acquisition_date": "2026-01-18",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-086",
+        "name": "Enterprise Partner 86",
+        "industry": "Logistics",
+        "product_tier": "Startup",
+        "tenure_months": 6,
+        "engagement_score": 6.4,
+        "acquisition_date": "2026-02-03",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-087",
+        "name": "Enterprise Partner 87",
+        "industry": "Fintech",
+        "product_tier": "Startup",
+        "tenure_months": 11,
+        "engagement_score": 6.3,
+        "acquisition_date": "2026-04-23",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-088",
+        "name": "Enterprise Partner 88",
+        "industry": "Fintech",
+        "product_tier": "Startup",
+        "tenure_months": 14,
+        "engagement_score": 2.7,
+        "acquisition_date": "2026-01-07",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-089",
+        "name": "Enterprise Partner 89",
+        "industry": "Fintech",
+        "product_tier": "Growth",
+        "tenure_months": 6,
+        "engagement_score": 5.9,
+        "acquisition_date": "2026-04-06",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-090",
+        "name": "Enterprise Partner 90",
+        "industry": "Logistics",
+        "product_tier": "Growth",
+        "tenure_months": 4,
+        "engagement_score": 3.2,
+        "acquisition_date": "2026-04-23",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-091",
+        "name": "Enterprise Partner 91",
+        "industry": "Healthcare",
+        "product_tier": "Growth",
+        "tenure_months": 6,
+        "engagement_score": 3.8,
+        "acquisition_date": "2026-02-28",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-092",
+        "name": "Enterprise Partner 92",
+        "industry": "E-commerce",
+        "product_tier": "Growth",
+        "tenure_months": 22,
+        "engagement_score": 3.8,
+        "acquisition_date": "2026-04-22",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-093",
+        "name": "Enterprise Partner 93",
+        "industry": "E-commerce",
+        "product_tier": "Startup",
+        "tenure_months": 17,
+        "engagement_score": 10.0,
+        "acquisition_date": "2026-05-01",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-094",
+        "name": "Enterprise Partner 94",
+        "industry": "SaaS",
+        "product_tier": "Growth",
+        "tenure_months": 23,
+        "engagement_score": 9.8,
+        "acquisition_date": "2026-04-14",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-095",
+        "name": "Enterprise Partner 95",
+        "industry": "E-commerce",
+        "product_tier": "Growth",
+        "tenure_months": 2,
+        "engagement_score": 5.9,
+        "acquisition_date": "2026-04-13",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-096",
+        "name": "Enterprise Partner 96",
+        "industry": "Fintech",
+        "product_tier": "Growth",
+        "tenure_months": 8,
+        "engagement_score": 7.7,
+        "acquisition_date": "2026-05-09",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-097",
+        "name": "Enterprise Partner 97",
+        "industry": "Fintech",
+        "product_tier": "Growth",
+        "tenure_months": 10,
+        "engagement_score": 5.2,
+        "acquisition_date": "2026-02-24",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-098",
+        "name": "Enterprise Partner 98",
+        "industry": "Logistics",
+        "product_tier": "Growth",
+        "tenure_months": 5,
+        "engagement_score": 7.7,
+        "acquisition_date": "2026-05-10",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-099",
+        "name": "Enterprise Partner 99",
+        "industry": "E-commerce",
+        "product_tier": "Startup",
+        "tenure_months": 22,
+        "engagement_score": 2.1,
+        "acquisition_date": "2026-03-19",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-100",
+        "name": "Enterprise Partner 100",
+        "industry": "Fintech",
+        "product_tier": "Enterprise",
+        "tenure_months": 8,
+        "engagement_score": 7.2,
+        "acquisition_date": "2026-03-14",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-101",
+        "name": "Enterprise Partner 101",
+        "industry": "Fintech",
+        "product_tier": "Startup",
+        "tenure_months": 11,
+        "engagement_score": 9.1,
+        "acquisition_date": "2026-02-08",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-102",
+        "name": "Enterprise Partner 102",
+        "industry": "Fintech",
+        "product_tier": "Growth",
+        "tenure_months": 23,
+        "engagement_score": 9.5,
+        "acquisition_date": "2026-01-04",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-103",
+        "name": "Enterprise Partner 103",
+        "industry": "Fintech",
+        "product_tier": "Enterprise",
+        "tenure_months": 22,
+        "engagement_score": 3.0,
+        "acquisition_date": "2026-03-21",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-104",
+        "name": "Enterprise Partner 104",
+        "industry": "SaaS",
+        "product_tier": "Growth",
+        "tenure_months": 1,
+        "engagement_score": 4.3,
+        "acquisition_date": "2026-03-17",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-105",
+        "name": "Enterprise Partner 105",
+        "industry": "SaaS",
+        "product_tier": "Startup",
+        "tenure_months": 8,
+        "engagement_score": 2.4,
+        "acquisition_date": "2026-05-14",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-106",
+        "name": "Enterprise Partner 106",
+        "industry": "Fintech",
+        "product_tier": "Startup",
+        "tenure_months": 1,
+        "engagement_score": 6.7,
+        "acquisition_date": "2026-04-11",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-107",
+        "name": "Enterprise Partner 107",
+        "industry": "Fintech",
+        "product_tier": "Growth",
+        "tenure_months": 10,
+        "engagement_score": 5.4,
+        "acquisition_date": "2026-04-09",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-108",
+        "name": "Enterprise Partner 108",
+        "industry": "E-commerce",
+        "product_tier": "Enterprise",
+        "tenure_months": 19,
+        "engagement_score": 3.4,
+        "acquisition_date": "2026-02-11",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-109",
+        "name": "Enterprise Partner 109",
+        "industry": "SaaS",
+        "product_tier": "Startup",
+        "tenure_months": 4,
+        "engagement_score": 3.4,
+        "acquisition_date": "2026-03-04",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-110",
+        "name": "Enterprise Partner 110",
+        "industry": "E-commerce",
+        "product_tier": "Growth",
+        "tenure_months": 10,
+        "engagement_score": 6.4,
+        "acquisition_date": "2026-04-29",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-111",
+        "name": "Enterprise Partner 111",
+        "industry": "Logistics",
+        "product_tier": "Enterprise",
+        "tenure_months": 5,
+        "engagement_score": 5.1,
+        "acquisition_date": "2026-03-29",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-112",
+        "name": "Enterprise Partner 112",
+        "industry": "E-commerce",
+        "product_tier": "Enterprise",
+        "tenure_months": 14,
+        "engagement_score": 5.0,
+        "acquisition_date": "2026-04-29",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-113",
+        "name": "Enterprise Partner 113",
+        "industry": "E-commerce",
+        "product_tier": "Startup",
+        "tenure_months": 20,
+        "engagement_score": 6.4,
+        "acquisition_date": "2026-04-25",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-114",
+        "name": "Enterprise Partner 114",
+        "industry": "Healthcare",
+        "product_tier": "Enterprise",
+        "tenure_months": 23,
+        "engagement_score": 4.7,
+        "acquisition_date": "2026-02-18",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-115",
+        "name": "Enterprise Partner 115",
+        "industry": "Healthcare",
+        "product_tier": "Growth",
+        "tenure_months": 21,
+        "engagement_score": 9.6,
+        "acquisition_date": "2026-02-23",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-116",
+        "name": "Enterprise Partner 116",
+        "industry": "Fintech",
+        "product_tier": "Enterprise",
+        "tenure_months": 10,
+        "engagement_score": 5.5,
+        "acquisition_date": "2026-05-20",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-117",
+        "name": "Enterprise Partner 117",
+        "industry": "E-commerce",
+        "product_tier": "Startup",
+        "tenure_months": 18,
+        "engagement_score": 8.3,
+        "acquisition_date": "2026-02-06",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-118",
+        "name": "Enterprise Partner 118",
+        "industry": "Fintech",
+        "product_tier": "Startup",
+        "tenure_months": 13,
+        "engagement_score": 2.8,
+        "acquisition_date": "2026-04-24",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-119",
+        "name": "Enterprise Partner 119",
+        "industry": "Fintech",
+        "product_tier": "Startup",
+        "tenure_months": 5,
+        "engagement_score": 4.6,
+        "acquisition_date": "2026-04-14",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-120",
+        "name": "Enterprise Partner 120",
+        "industry": "E-commerce",
+        "product_tier": "Enterprise",
+        "tenure_months": 23,
+        "engagement_score": 7.6,
+        "acquisition_date": "2026-03-26",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-121",
+        "name": "Enterprise Partner 121",
+        "industry": "E-commerce",
+        "product_tier": "Growth",
+        "tenure_months": 23,
+        "engagement_score": 3.7,
+        "acquisition_date": "2026-05-13",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-122",
+        "name": "Enterprise Partner 122",
+        "industry": "SaaS",
+        "product_tier": "Enterprise",
+        "tenure_months": 6,
+        "engagement_score": 5.1,
+        "acquisition_date": "2026-05-02",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-123",
+        "name": "Enterprise Partner 123",
+        "industry": "E-commerce",
+        "product_tier": "Growth",
+        "tenure_months": 18,
+        "engagement_score": 3.5,
+        "acquisition_date": "2026-05-13",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-124",
+        "name": "Enterprise Partner 124",
+        "industry": "Fintech",
+        "product_tier": "Startup",
+        "tenure_months": 1,
+        "engagement_score": 2.4,
+        "acquisition_date": "2026-01-05",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-125",
+        "name": "Enterprise Partner 125",
+        "industry": "Healthcare",
+        "product_tier": "Growth",
+        "tenure_months": 15,
+        "engagement_score": 6.8,
+        "acquisition_date": "2026-02-15",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-126",
+        "name": "Enterprise Partner 126",
+        "industry": "E-commerce",
+        "product_tier": "Enterprise",
+        "tenure_months": 4,
+        "engagement_score": 3.2,
+        "acquisition_date": "2026-05-28",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-127",
+        "name": "Enterprise Partner 127",
+        "industry": "Logistics",
+        "product_tier": "Growth",
+        "tenure_months": 12,
+        "engagement_score": 5.2,
+        "acquisition_date": "2026-01-23",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-128",
+        "name": "Enterprise Partner 128",
+        "industry": "Logistics",
+        "product_tier": "Startup",
+        "tenure_months": 2,
+        "engagement_score": 8.3,
+        "acquisition_date": "2026-01-04",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-129",
+        "name": "Enterprise Partner 129",
+        "industry": "E-commerce",
+        "product_tier": "Startup",
+        "tenure_months": 4,
+        "engagement_score": 9.1,
+        "acquisition_date": "2026-05-03",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-130",
+        "name": "Enterprise Partner 130",
+        "industry": "E-commerce",
+        "product_tier": "Enterprise",
+        "tenure_months": 14,
+        "engagement_score": 2.6,
+        "acquisition_date": "2026-05-08",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-131",
+        "name": "Enterprise Partner 131",
+        "industry": "SaaS",
+        "product_tier": "Startup",
+        "tenure_months": 17,
+        "engagement_score": 6.4,
+        "acquisition_date": "2026-04-10",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-132",
+        "name": "Enterprise Partner 132",
+        "industry": "Fintech",
+        "product_tier": "Startup",
+        "tenure_months": 7,
+        "engagement_score": 2.2,
+        "acquisition_date": "2026-05-26",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-133",
+        "name": "Enterprise Partner 133",
+        "industry": "E-commerce",
+        "product_tier": "Startup",
+        "tenure_months": 16,
+        "engagement_score": 4.9,
+        "acquisition_date": "2026-03-12",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-134",
+        "name": "Enterprise Partner 134",
+        "industry": "Healthcare",
+        "product_tier": "Enterprise",
+        "tenure_months": 12,
+        "engagement_score": 9.4,
+        "acquisition_date": "2026-03-05",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-135",
+        "name": "Enterprise Partner 135",
+        "industry": "E-commerce",
+        "product_tier": "Enterprise",
+        "tenure_months": 19,
+        "engagement_score": 3.8,
+        "acquisition_date": "2026-04-22",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-136",
+        "name": "Enterprise Partner 136",
+        "industry": "SaaS",
+        "product_tier": "Startup",
+        "tenure_months": 23,
+        "engagement_score": 4.2,
+        "acquisition_date": "2026-05-26",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-137",
+        "name": "Enterprise Partner 137",
+        "industry": "Fintech",
+        "product_tier": "Startup",
+        "tenure_months": 17,
+        "engagement_score": 7.6,
+        "acquisition_date": "2026-04-05",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-138",
+        "name": "Enterprise Partner 138",
+        "industry": "E-commerce",
+        "product_tier": "Growth",
+        "tenure_months": 16,
+        "engagement_score": 3.0,
+        "acquisition_date": "2026-02-01",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-139",
+        "name": "Enterprise Partner 139",
+        "industry": "Logistics",
+        "product_tier": "Growth",
+        "tenure_months": 7,
+        "engagement_score": 2.5,
+        "acquisition_date": "2026-05-18",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-140",
+        "name": "Enterprise Partner 140",
+        "industry": "E-commerce",
+        "product_tier": "Startup",
+        "tenure_months": 16,
+        "engagement_score": 7.4,
+        "acquisition_date": "2026-03-25",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-141",
+        "name": "Enterprise Partner 141",
+        "industry": "Logistics",
+        "product_tier": "Growth",
+        "tenure_months": 12,
+        "engagement_score": 3.2,
+        "acquisition_date": "2026-02-08",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-142",
+        "name": "Enterprise Partner 142",
+        "industry": "Logistics",
+        "product_tier": "Growth",
+        "tenure_months": 10,
+        "engagement_score": 7.6,
+        "acquisition_date": "2026-02-27",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-143",
+        "name": "Enterprise Partner 143",
+        "industry": "Fintech",
+        "product_tier": "Startup",
+        "tenure_months": 19,
+        "engagement_score": 3.0,
+        "acquisition_date": "2026-04-20",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-144",
+        "name": "Enterprise Partner 144",
+        "industry": "Logistics",
+        "product_tier": "Enterprise",
+        "tenure_months": 13,
+        "engagement_score": 3.8,
+        "acquisition_date": "2026-03-15",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-145",
+        "name": "Enterprise Partner 145",
+        "industry": "Logistics",
+        "product_tier": "Startup",
+        "tenure_months": 15,
+        "engagement_score": 8.3,
+        "acquisition_date": "2026-06-02",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-146",
+        "name": "Enterprise Partner 146",
+        "industry": "Fintech",
+        "product_tier": "Growth",
+        "tenure_months": 19,
+        "engagement_score": 9.2,
+        "acquisition_date": "2026-02-01",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-147",
+        "name": "Enterprise Partner 147",
+        "industry": "Fintech",
+        "product_tier": "Enterprise",
+        "tenure_months": 1,
+        "engagement_score": 7.8,
+        "acquisition_date": "2026-05-12",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-148",
+        "name": "Enterprise Partner 148",
+        "industry": "Healthcare",
+        "product_tier": "Enterprise",
+        "tenure_months": 13,
+        "engagement_score": 4.1,
+        "acquisition_date": "2026-06-01",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-149",
+        "name": "Enterprise Partner 149",
+        "industry": "Fintech",
+        "product_tier": "Enterprise",
+        "tenure_months": 11,
+        "engagement_score": 5.9,
+        "acquisition_date": "2026-03-22",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-150",
+        "name": "Enterprise Partner 150",
+        "industry": "E-commerce",
+        "product_tier": "Growth",
+        "tenure_months": 19,
+        "engagement_score": 9.5,
+        "acquisition_date": "2026-04-15",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-151",
+        "name": "Enterprise Partner 151",
+        "industry": "SaaS",
+        "product_tier": "Growth",
+        "tenure_months": 2,
+        "engagement_score": 8.1,
+        "acquisition_date": "2026-04-19",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-152",
+        "name": "Enterprise Partner 152",
+        "industry": "Healthcare",
+        "product_tier": "Startup",
+        "tenure_months": 5,
+        "engagement_score": 4.4,
+        "acquisition_date": "2026-04-30",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-153",
+        "name": "Enterprise Partner 153",
+        "industry": "Logistics",
+        "product_tier": "Growth",
+        "tenure_months": 15,
+        "engagement_score": 5.1,
+        "acquisition_date": "2026-01-29",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-154",
+        "name": "Enterprise Partner 154",
+        "industry": "SaaS",
+        "product_tier": "Growth",
+        "tenure_months": 11,
+        "engagement_score": 6.2,
+        "acquisition_date": "2026-05-08",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-155",
+        "name": "Enterprise Partner 155",
+        "industry": "Healthcare",
+        "product_tier": "Growth",
+        "tenure_months": 21,
+        "engagement_score": 6.0,
+        "acquisition_date": "2026-01-25",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-156",
+        "name": "Enterprise Partner 156",
+        "industry": "E-commerce",
+        "product_tier": "Enterprise",
+        "tenure_months": 19,
+        "engagement_score": 2.8,
+        "acquisition_date": "2026-02-17",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-157",
+        "name": "Enterprise Partner 157",
+        "industry": "Healthcare",
+        "product_tier": "Growth",
+        "tenure_months": 21,
+        "engagement_score": 6.6,
+        "acquisition_date": "2026-03-24",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-158",
+        "name": "Enterprise Partner 158",
+        "industry": "SaaS",
+        "product_tier": "Growth",
+        "tenure_months": 17,
+        "engagement_score": 2.1,
+        "acquisition_date": "2026-03-03",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-159",
+        "name": "Enterprise Partner 159",
+        "industry": "SaaS",
+        "product_tier": "Startup",
+        "tenure_months": 1,
+        "engagement_score": 3.4,
+        "acquisition_date": "2026-01-31",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-160",
+        "name": "Enterprise Partner 160",
+        "industry": "Fintech",
+        "product_tier": "Startup",
+        "tenure_months": 12,
+        "engagement_score": 7.3,
+        "acquisition_date": "2026-05-23",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-161",
+        "name": "Enterprise Partner 161",
+        "industry": "Fintech",
+        "product_tier": "Startup",
+        "tenure_months": 24,
+        "engagement_score": 4.5,
+        "acquisition_date": "2026-04-14",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-162",
+        "name": "Enterprise Partner 162",
+        "industry": "Fintech",
+        "product_tier": "Enterprise",
+        "tenure_months": 24,
+        "engagement_score": 7.3,
+        "acquisition_date": "2026-01-09",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-163",
+        "name": "Enterprise Partner 163",
+        "industry": "Healthcare",
+        "product_tier": "Enterprise",
+        "tenure_months": 5,
+        "engagement_score": 2.6,
+        "acquisition_date": "2026-02-18",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-164",
+        "name": "Enterprise Partner 164",
+        "industry": "Logistics",
+        "product_tier": "Enterprise",
+        "tenure_months": 15,
+        "engagement_score": 2.1,
+        "acquisition_date": "2026-05-06",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-165",
+        "name": "Enterprise Partner 165",
+        "industry": "Logistics",
+        "product_tier": "Growth",
+        "tenure_months": 15,
+        "engagement_score": 6.8,
+        "acquisition_date": "2026-02-08",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-166",
+        "name": "Enterprise Partner 166",
+        "industry": "SaaS",
+        "product_tier": "Enterprise",
+        "tenure_months": 11,
+        "engagement_score": 3.5,
+        "acquisition_date": "2026-04-23",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-167",
+        "name": "Enterprise Partner 167",
+        "industry": "Healthcare",
+        "product_tier": "Enterprise",
+        "tenure_months": 13,
+        "engagement_score": 7.3,
+        "acquisition_date": "2026-03-04",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-168",
+        "name": "Enterprise Partner 168",
+        "industry": "Logistics",
+        "product_tier": "Enterprise",
+        "tenure_months": 5,
+        "engagement_score": 5.3,
+        "acquisition_date": "2026-05-02",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-169",
+        "name": "Enterprise Partner 169",
+        "industry": "Logistics",
+        "product_tier": "Growth",
+        "tenure_months": 23,
+        "engagement_score": 9.1,
+        "acquisition_date": "2026-02-05",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-170",
+        "name": "Enterprise Partner 170",
+        "industry": "E-commerce",
+        "product_tier": "Enterprise",
+        "tenure_months": 18,
+        "engagement_score": 5.9,
+        "acquisition_date": "2026-04-10",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-171",
+        "name": "Enterprise Partner 171",
+        "industry": "Healthcare",
+        "product_tier": "Startup",
+        "tenure_months": 9,
+        "engagement_score": 5.1,
+        "acquisition_date": "2026-04-30",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-172",
+        "name": "Enterprise Partner 172",
+        "industry": "Healthcare",
+        "product_tier": "Startup",
+        "tenure_months": 11,
+        "engagement_score": 2.3,
+        "acquisition_date": "2026-05-22",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-173",
+        "name": "Enterprise Partner 173",
+        "industry": "Healthcare",
+        "product_tier": "Enterprise",
+        "tenure_months": 23,
+        "engagement_score": 9.5,
+        "acquisition_date": "2026-05-14",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-174",
+        "name": "Enterprise Partner 174",
+        "industry": "E-commerce",
+        "product_tier": "Enterprise",
+        "tenure_months": 1,
+        "engagement_score": 9.9,
+        "acquisition_date": "2026-01-28",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-175",
+        "name": "Enterprise Partner 175",
+        "industry": "E-commerce",
+        "product_tier": "Startup",
+        "tenure_months": 16,
+        "engagement_score": 6.3,
+        "acquisition_date": "2026-05-06",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-176",
+        "name": "Enterprise Partner 176",
+        "industry": "Fintech",
+        "product_tier": "Growth",
+        "tenure_months": 15,
+        "engagement_score": 10.0,
+        "acquisition_date": "2026-02-20",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-177",
+        "name": "Enterprise Partner 177",
+        "industry": "Logistics",
+        "product_tier": "Growth",
+        "tenure_months": 4,
+        "engagement_score": 2.7,
+        "acquisition_date": "2026-01-06",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-178",
+        "name": "Enterprise Partner 178",
+        "industry": "E-commerce",
+        "product_tier": "Enterprise",
+        "tenure_months": 9,
+        "engagement_score": 9.0,
+        "acquisition_date": "2026-03-11",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-179",
+        "name": "Enterprise Partner 179",
+        "industry": "Fintech",
+        "product_tier": "Enterprise",
+        "tenure_months": 20,
+        "engagement_score": 4.8,
+        "acquisition_date": "2026-01-27",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-180",
+        "name": "Enterprise Partner 180",
+        "industry": "Healthcare",
+        "product_tier": "Startup",
+        "tenure_months": 6,
+        "engagement_score": 5.9,
+        "acquisition_date": "2026-01-17",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-181",
+        "name": "Enterprise Partner 181",
+        "industry": "Fintech",
+        "product_tier": "Growth",
+        "tenure_months": 9,
+        "engagement_score": 7.5,
+        "acquisition_date": "2026-02-12",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-182",
+        "name": "Enterprise Partner 182",
+        "industry": "E-commerce",
+        "product_tier": "Growth",
+        "tenure_months": 23,
+        "engagement_score": 9.4,
+        "acquisition_date": "2026-02-21",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-183",
+        "name": "Enterprise Partner 183",
+        "industry": "Fintech",
+        "product_tier": "Startup",
+        "tenure_months": 21,
+        "engagement_score": 2.1,
+        "acquisition_date": "2026-05-29",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-184",
+        "name": "Enterprise Partner 184",
+        "industry": "Healthcare",
+        "product_tier": "Startup",
+        "tenure_months": 14,
+        "engagement_score": 8.4,
+        "acquisition_date": "2026-01-16",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-185",
+        "name": "Enterprise Partner 185",
+        "industry": "Logistics",
+        "product_tier": "Enterprise",
+        "tenure_months": 6,
+        "engagement_score": 3.0,
+        "acquisition_date": "2026-01-10",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-186",
+        "name": "Enterprise Partner 186",
+        "industry": "Logistics",
+        "product_tier": "Enterprise",
+        "tenure_months": 12,
+        "engagement_score": 5.0,
+        "acquisition_date": "2026-03-26",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-187",
+        "name": "Enterprise Partner 187",
+        "industry": "Fintech",
+        "product_tier": "Startup",
+        "tenure_months": 11,
+        "engagement_score": 4.9,
+        "acquisition_date": "2026-04-30",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-188",
+        "name": "Enterprise Partner 188",
+        "industry": "E-commerce",
+        "product_tier": "Enterprise",
+        "tenure_months": 17,
+        "engagement_score": 4.5,
+        "acquisition_date": "2026-05-25",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-189",
+        "name": "Enterprise Partner 189",
+        "industry": "Healthcare",
+        "product_tier": "Growth",
+        "tenure_months": 22,
+        "engagement_score": 3.2,
+        "acquisition_date": "2026-04-21",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-190",
+        "name": "Enterprise Partner 190",
+        "industry": "E-commerce",
+        "product_tier": "Startup",
+        "tenure_months": 20,
+        "engagement_score": 8.1,
+        "acquisition_date": "2026-05-04",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-191",
+        "name": "Enterprise Partner 191",
+        "industry": "SaaS",
+        "product_tier": "Startup",
+        "tenure_months": 14,
+        "engagement_score": 2.9,
+        "acquisition_date": "2026-05-20",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-192",
+        "name": "Enterprise Partner 192",
+        "industry": "Healthcare",
+        "product_tier": "Growth",
+        "tenure_months": 13,
+        "engagement_score": 4.4,
+        "acquisition_date": "2026-03-03",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-193",
+        "name": "Enterprise Partner 193",
+        "industry": "Fintech",
+        "product_tier": "Growth",
+        "tenure_months": 20,
+        "engagement_score": 2.5,
+        "acquisition_date": "2026-04-19",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-194",
+        "name": "Enterprise Partner 194",
+        "industry": "Logistics",
+        "product_tier": "Growth",
+        "tenure_months": 7,
+        "engagement_score": 7.2,
+        "acquisition_date": "2026-03-27",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-195",
+        "name": "Enterprise Partner 195",
+        "industry": "E-commerce",
+        "product_tier": "Growth",
+        "tenure_months": 6,
+        "engagement_score": 7.8,
+        "acquisition_date": "2026-05-22",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-196",
+        "name": "Enterprise Partner 196",
+        "industry": "Fintech",
+        "product_tier": "Enterprise",
+        "tenure_months": 18,
+        "engagement_score": 5.1,
+        "acquisition_date": "2026-05-07",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-197",
+        "name": "Enterprise Partner 197",
+        "industry": "E-commerce",
+        "product_tier": "Enterprise",
+        "tenure_months": 7,
+        "engagement_score": 2.7,
+        "acquisition_date": "2026-02-19",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-198",
+        "name": "Enterprise Partner 198",
+        "industry": "Fintech",
+        "product_tier": "Growth",
+        "tenure_months": 11,
+        "engagement_score": 5.2,
+        "acquisition_date": "2026-06-01",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-199",
+        "name": "Enterprise Partner 199",
+        "industry": "Healthcare",
+        "product_tier": "Startup",
+        "tenure_months": 7,
+        "engagement_score": 8.4,
+        "acquisition_date": "2026-04-05",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-200",
+        "name": "Enterprise Partner 200",
+        "industry": "Fintech",
+        "product_tier": "Enterprise",
+        "tenure_months": 10,
+        "engagement_score": 4.1,
+        "acquisition_date": "2026-02-24",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-201",
+        "name": "Enterprise Partner 201",
+        "industry": "SaaS",
+        "product_tier": "Enterprise",
+        "tenure_months": 18,
+        "engagement_score": 5.5,
+        "acquisition_date": "2026-02-04",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-202",
+        "name": "Enterprise Partner 202",
+        "industry": "Healthcare",
+        "product_tier": "Growth",
+        "tenure_months": 17,
+        "engagement_score": 5.7,
+        "acquisition_date": "2026-02-24",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-203",
+        "name": "Enterprise Partner 203",
+        "industry": "Logistics",
+        "product_tier": "Growth",
+        "tenure_months": 11,
+        "engagement_score": 9.6,
+        "acquisition_date": "2026-01-10",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-204",
+        "name": "Enterprise Partner 204",
+        "industry": "Fintech",
+        "product_tier": "Enterprise",
+        "tenure_months": 8,
+        "engagement_score": 2.1,
+        "acquisition_date": "2026-03-19",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-205",
+        "name": "Enterprise Partner 205",
+        "industry": "Logistics",
+        "product_tier": "Enterprise",
+        "tenure_months": 14,
+        "engagement_score": 3.0,
+        "acquisition_date": "2026-03-19",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-206",
+        "name": "Enterprise Partner 206",
+        "industry": "Logistics",
+        "product_tier": "Enterprise",
+        "tenure_months": 23,
+        "engagement_score": 5.5,
+        "acquisition_date": "2026-01-29",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-207",
+        "name": "Enterprise Partner 207",
+        "industry": "Fintech",
+        "product_tier": "Startup",
+        "tenure_months": 9,
+        "engagement_score": 3.3,
+        "acquisition_date": "2026-05-16",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-208",
+        "name": "Enterprise Partner 208",
+        "industry": "E-commerce",
+        "product_tier": "Growth",
+        "tenure_months": 18,
+        "engagement_score": 5.7,
+        "acquisition_date": "2026-04-27",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-209",
+        "name": "Enterprise Partner 209",
+        "industry": "Fintech",
+        "product_tier": "Enterprise",
+        "tenure_months": 11,
+        "engagement_score": 2.6,
+        "acquisition_date": "2026-05-24",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-210",
+        "name": "Enterprise Partner 210",
+        "industry": "E-commerce",
+        "product_tier": "Growth",
+        "tenure_months": 16,
+        "engagement_score": 4.9,
+        "acquisition_date": "2026-01-10",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-211",
+        "name": "Enterprise Partner 211",
+        "industry": "Fintech",
+        "product_tier": "Enterprise",
+        "tenure_months": 22,
+        "engagement_score": 7.8,
+        "acquisition_date": "2026-02-07",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-212",
+        "name": "Enterprise Partner 212",
+        "industry": "Fintech",
+        "product_tier": "Startup",
+        "tenure_months": 7,
+        "engagement_score": 6.9,
+        "acquisition_date": "2026-02-16",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-213",
+        "name": "Enterprise Partner 213",
+        "industry": "SaaS",
+        "product_tier": "Startup",
+        "tenure_months": 23,
+        "engagement_score": 2.2,
+        "acquisition_date": "2026-02-21",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-214",
+        "name": "Enterprise Partner 214",
+        "industry": "Fintech",
+        "product_tier": "Startup",
+        "tenure_months": 14,
+        "engagement_score": 6.2,
+        "acquisition_date": "2026-03-03",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-215",
+        "name": "Enterprise Partner 215",
+        "industry": "E-commerce",
+        "product_tier": "Growth",
+        "tenure_months": 19,
+        "engagement_score": 4.3,
+        "acquisition_date": "2026-01-12",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-216",
+        "name": "Enterprise Partner 216",
+        "industry": "SaaS",
+        "product_tier": "Growth",
+        "tenure_months": 13,
+        "engagement_score": 9.1,
+        "acquisition_date": "2026-03-29",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-217",
+        "name": "Enterprise Partner 217",
+        "industry": "Healthcare",
+        "product_tier": "Enterprise",
+        "tenure_months": 21,
+        "engagement_score": 3.7,
+        "acquisition_date": "2026-01-22",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-218",
+        "name": "Enterprise Partner 218",
+        "industry": "SaaS",
+        "product_tier": "Enterprise",
+        "tenure_months": 8,
+        "engagement_score": 9.2,
+        "acquisition_date": "2026-01-12",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-219",
+        "name": "Enterprise Partner 219",
+        "industry": "SaaS",
+        "product_tier": "Growth",
+        "tenure_months": 11,
+        "engagement_score": 4.8,
+        "acquisition_date": "2026-03-13",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-220",
+        "name": "Enterprise Partner 220",
+        "industry": "SaaS",
+        "product_tier": "Growth",
+        "tenure_months": 14,
+        "engagement_score": 3.9,
+        "acquisition_date": "2026-06-02",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-221",
+        "name": "Enterprise Partner 221",
+        "industry": "Logistics",
+        "product_tier": "Growth",
+        "tenure_months": 22,
+        "engagement_score": 5.9,
+        "acquisition_date": "2026-03-09",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-222",
+        "name": "Enterprise Partner 222",
+        "industry": "SaaS",
+        "product_tier": "Startup",
+        "tenure_months": 21,
+        "engagement_score": 5.9,
+        "acquisition_date": "2026-04-19",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-223",
+        "name": "Enterprise Partner 223",
+        "industry": "Logistics",
+        "product_tier": "Startup",
+        "tenure_months": 7,
+        "engagement_score": 2.1,
+        "acquisition_date": "2026-03-06",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-224",
+        "name": "Enterprise Partner 224",
+        "industry": "Healthcare",
+        "product_tier": "Growth",
+        "tenure_months": 14,
+        "engagement_score": 9.9,
+        "acquisition_date": "2026-05-21",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-225",
+        "name": "Enterprise Partner 225",
+        "industry": "Fintech",
+        "product_tier": "Enterprise",
+        "tenure_months": 7,
+        "engagement_score": 5.0,
+        "acquisition_date": "2026-03-18",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-226",
+        "name": "Enterprise Partner 226",
+        "industry": "E-commerce",
+        "product_tier": "Growth",
+        "tenure_months": 6,
+        "engagement_score": 6.8,
+        "acquisition_date": "2026-03-04",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-227",
+        "name": "Enterprise Partner 227",
+        "industry": "Logistics",
+        "product_tier": "Startup",
+        "tenure_months": 23,
+        "engagement_score": 6.9,
+        "acquisition_date": "2026-05-14",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-228",
+        "name": "Enterprise Partner 228",
+        "industry": "Logistics",
+        "product_tier": "Enterprise",
+        "tenure_months": 2,
+        "engagement_score": 6.9,
+        "acquisition_date": "2026-03-09",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-229",
+        "name": "Enterprise Partner 229",
+        "industry": "E-commerce",
+        "product_tier": "Startup",
+        "tenure_months": 22,
+        "engagement_score": 4.3,
+        "acquisition_date": "2026-03-31",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-230",
+        "name": "Enterprise Partner 230",
+        "industry": "Fintech",
+        "product_tier": "Growth",
+        "tenure_months": 23,
+        "engagement_score": 9.8,
+        "acquisition_date": "2026-05-16",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-231",
+        "name": "Enterprise Partner 231",
+        "industry": "SaaS",
+        "product_tier": "Growth",
+        "tenure_months": 15,
+        "engagement_score": 3.0,
+        "acquisition_date": "2026-03-10",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-232",
+        "name": "Enterprise Partner 232",
+        "industry": "Fintech",
+        "product_tier": "Enterprise",
+        "tenure_months": 11,
+        "engagement_score": 9.4,
+        "acquisition_date": "2026-05-06",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-233",
+        "name": "Enterprise Partner 233",
+        "industry": "Logistics",
+        "product_tier": "Startup",
+        "tenure_months": 3,
+        "engagement_score": 4.8,
+        "acquisition_date": "2026-02-17",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-234",
+        "name": "Enterprise Partner 234",
+        "industry": "Healthcare",
+        "product_tier": "Growth",
+        "tenure_months": 8,
+        "engagement_score": 7.3,
+        "acquisition_date": "2026-01-29",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-235",
+        "name": "Enterprise Partner 235",
+        "industry": "Logistics",
+        "product_tier": "Enterprise",
+        "tenure_months": 2,
+        "engagement_score": 3.4,
+        "acquisition_date": "2026-05-08",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-236",
+        "name": "Enterprise Partner 236",
+        "industry": "E-commerce",
+        "product_tier": "Startup",
+        "tenure_months": 1,
+        "engagement_score": 6.3,
+        "acquisition_date": "2026-01-25",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-237",
+        "name": "Enterprise Partner 237",
+        "industry": "Healthcare",
+        "product_tier": "Startup",
+        "tenure_months": 6,
+        "engagement_score": 3.6,
+        "acquisition_date": "2026-04-18",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-238",
+        "name": "Enterprise Partner 238",
+        "industry": "SaaS",
+        "product_tier": "Growth",
+        "tenure_months": 2,
+        "engagement_score": 6.3,
+        "acquisition_date": "2026-05-25",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-239",
+        "name": "Enterprise Partner 239",
+        "industry": "Fintech",
+        "product_tier": "Growth",
+        "tenure_months": 19,
+        "engagement_score": 5.5,
+        "acquisition_date": "2026-05-25",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-240",
+        "name": "Enterprise Partner 240",
+        "industry": "Logistics",
+        "product_tier": "Enterprise",
+        "tenure_months": 7,
+        "engagement_score": 6.1,
+        "acquisition_date": "2026-04-19",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-241",
+        "name": "Enterprise Partner 241",
+        "industry": "Fintech",
+        "product_tier": "Startup",
+        "tenure_months": 7,
+        "engagement_score": 2.4,
+        "acquisition_date": "2026-01-06",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-242",
+        "name": "Enterprise Partner 242",
+        "industry": "SaaS",
+        "product_tier": "Growth",
+        "tenure_months": 8,
+        "engagement_score": 6.5,
+        "acquisition_date": "2026-05-06",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-243",
+        "name": "Enterprise Partner 243",
+        "industry": "SaaS",
+        "product_tier": "Startup",
+        "tenure_months": 8,
+        "engagement_score": 7.8,
+        "acquisition_date": "2026-02-05",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-244",
+        "name": "Enterprise Partner 244",
+        "industry": "Healthcare",
+        "product_tier": "Enterprise",
+        "tenure_months": 20,
+        "engagement_score": 3.6,
+        "acquisition_date": "2026-02-24",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-245",
+        "name": "Enterprise Partner 245",
+        "industry": "SaaS",
+        "product_tier": "Startup",
+        "tenure_months": 13,
+        "engagement_score": 4.5,
+        "acquisition_date": "2026-04-16",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-246",
+        "name": "Enterprise Partner 246",
+        "industry": "SaaS",
+        "product_tier": "Enterprise",
+        "tenure_months": 1,
+        "engagement_score": 9.3,
+        "acquisition_date": "2026-01-23",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-247",
+        "name": "Enterprise Partner 247",
+        "industry": "Fintech",
+        "product_tier": "Enterprise",
+        "tenure_months": 16,
+        "engagement_score": 4.5,
+        "acquisition_date": "2026-05-06",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-248",
+        "name": "Enterprise Partner 248",
+        "industry": "Healthcare",
+        "product_tier": "Startup",
+        "tenure_months": 14,
+        "engagement_score": 8.2,
+        "acquisition_date": "2026-06-03",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-249",
+        "name": "Enterprise Partner 249",
+        "industry": "Fintech",
+        "product_tier": "Growth",
+        "tenure_months": 7,
+        "engagement_score": 4.2,
+        "acquisition_date": "2026-05-18",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-250",
+        "name": "Enterprise Partner 250",
+        "industry": "SaaS",
+        "product_tier": "Startup",
+        "tenure_months": 7,
+        "engagement_score": 2.5,
+        "acquisition_date": "2026-01-31",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-251",
+        "name": "Enterprise Partner 251",
+        "industry": "Logistics",
+        "product_tier": "Enterprise",
+        "tenure_months": 4,
+        "engagement_score": 7.1,
+        "acquisition_date": "2026-05-22",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-252",
+        "name": "Enterprise Partner 252",
+        "industry": "Fintech",
+        "product_tier": "Startup",
+        "tenure_months": 21,
+        "engagement_score": 2.6,
+        "acquisition_date": "2026-01-12",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-253",
+        "name": "Enterprise Partner 253",
+        "industry": "Fintech",
+        "product_tier": "Startup",
+        "tenure_months": 19,
+        "engagement_score": 4.1,
+        "acquisition_date": "2026-03-26",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-254",
+        "name": "Enterprise Partner 254",
+        "industry": "E-commerce",
+        "product_tier": "Enterprise",
+        "tenure_months": 20,
+        "engagement_score": 5.5,
+        "acquisition_date": "2026-02-10",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-255",
+        "name": "Enterprise Partner 255",
+        "industry": "Logistics",
+        "product_tier": "Growth",
+        "tenure_months": 19,
+        "engagement_score": 6.6,
+        "acquisition_date": "2026-02-10",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-256",
+        "name": "Enterprise Partner 256",
+        "industry": "Fintech",
+        "product_tier": "Growth",
+        "tenure_months": 4,
+        "engagement_score": 2.6,
+        "acquisition_date": "2026-03-12",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-257",
+        "name": "Enterprise Partner 257",
+        "industry": "E-commerce",
+        "product_tier": "Startup",
+        "tenure_months": 21,
+        "engagement_score": 5.9,
+        "acquisition_date": "2026-05-24",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-258",
+        "name": "Enterprise Partner 258",
+        "industry": "E-commerce",
+        "product_tier": "Enterprise",
+        "tenure_months": 19,
+        "engagement_score": 9.6,
+        "acquisition_date": "2026-04-17",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-259",
+        "name": "Enterprise Partner 259",
+        "industry": "SaaS",
+        "product_tier": "Startup",
+        "tenure_months": 23,
+        "engagement_score": 5.3,
+        "acquisition_date": "2026-05-13",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-260",
+        "name": "Enterprise Partner 260",
+        "industry": "E-commerce",
+        "product_tier": "Growth",
+        "tenure_months": 22,
+        "engagement_score": 6.3,
+        "acquisition_date": "2026-01-14",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-261",
+        "name": "Enterprise Partner 261",
+        "industry": "E-commerce",
+        "product_tier": "Enterprise",
+        "tenure_months": 24,
+        "engagement_score": 8.5,
+        "acquisition_date": "2026-05-22",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-262",
+        "name": "Enterprise Partner 262",
+        "industry": "E-commerce",
+        "product_tier": "Growth",
+        "tenure_months": 11,
+        "engagement_score": 2.4,
+        "acquisition_date": "2026-04-30",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-263",
+        "name": "Enterprise Partner 263",
+        "industry": "Healthcare",
+        "product_tier": "Startup",
+        "tenure_months": 8,
+        "engagement_score": 5.9,
+        "acquisition_date": "2026-03-07",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-264",
+        "name": "Enterprise Partner 264",
+        "industry": "SaaS",
+        "product_tier": "Growth",
+        "tenure_months": 17,
+        "engagement_score": 7.9,
+        "acquisition_date": "2026-01-05",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-265",
+        "name": "Enterprise Partner 265",
+        "industry": "SaaS",
+        "product_tier": "Startup",
+        "tenure_months": 11,
+        "engagement_score": 7.1,
+        "acquisition_date": "2026-04-18",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-266",
+        "name": "Enterprise Partner 266",
+        "industry": "SaaS",
+        "product_tier": "Startup",
+        "tenure_months": 6,
+        "engagement_score": 4.3,
+        "acquisition_date": "2026-03-17",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-267",
+        "name": "Enterprise Partner 267",
+        "industry": "Logistics",
+        "product_tier": "Startup",
+        "tenure_months": 5,
+        "engagement_score": 8.1,
+        "acquisition_date": "2026-01-24",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-268",
+        "name": "Enterprise Partner 268",
+        "industry": "Fintech",
+        "product_tier": "Startup",
+        "tenure_months": 1,
+        "engagement_score": 2.1,
+        "acquisition_date": "2026-05-17",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-269",
+        "name": "Enterprise Partner 269",
+        "industry": "Healthcare",
+        "product_tier": "Startup",
+        "tenure_months": 21,
+        "engagement_score": 4.0,
+        "acquisition_date": "2026-01-14",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-270",
+        "name": "Enterprise Partner 270",
+        "industry": "Logistics",
+        "product_tier": "Enterprise",
+        "tenure_months": 20,
+        "engagement_score": 2.7,
+        "acquisition_date": "2026-04-15",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-271",
+        "name": "Enterprise Partner 271",
+        "industry": "Healthcare",
+        "product_tier": "Growth",
+        "tenure_months": 23,
+        "engagement_score": 9.4,
+        "acquisition_date": "2026-05-24",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-272",
+        "name": "Enterprise Partner 272",
+        "industry": "Healthcare",
+        "product_tier": "Enterprise",
+        "tenure_months": 5,
+        "engagement_score": 7.4,
+        "acquisition_date": "2026-03-08",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-273",
+        "name": "Enterprise Partner 273",
+        "industry": "E-commerce",
+        "product_tier": "Growth",
+        "tenure_months": 10,
+        "engagement_score": 2.3,
+        "acquisition_date": "2026-04-07",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-274",
+        "name": "Enterprise Partner 274",
+        "industry": "SaaS",
+        "product_tier": "Growth",
+        "tenure_months": 11,
+        "engagement_score": 4.1,
+        "acquisition_date": "2026-05-05",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-275",
+        "name": "Enterprise Partner 275",
+        "industry": "Healthcare",
+        "product_tier": "Growth",
+        "tenure_months": 11,
+        "engagement_score": 4.2,
+        "acquisition_date": "2026-04-21",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-276",
+        "name": "Enterprise Partner 276",
+        "industry": "E-commerce",
+        "product_tier": "Startup",
+        "tenure_months": 4,
+        "engagement_score": 7.6,
+        "acquisition_date": "2026-01-07",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-277",
+        "name": "Enterprise Partner 277",
+        "industry": "Logistics",
+        "product_tier": "Growth",
+        "tenure_months": 5,
+        "engagement_score": 7.1,
+        "acquisition_date": "2026-05-25",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-278",
+        "name": "Enterprise Partner 278",
+        "industry": "E-commerce",
+        "product_tier": "Startup",
+        "tenure_months": 19,
+        "engagement_score": 8.1,
+        "acquisition_date": "2026-01-10",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-279",
+        "name": "Enterprise Partner 279",
+        "industry": "Fintech",
+        "product_tier": "Growth",
+        "tenure_months": 5,
+        "engagement_score": 9.3,
+        "acquisition_date": "2026-03-05",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-280",
+        "name": "Enterprise Partner 280",
+        "industry": "E-commerce",
+        "product_tier": "Growth",
+        "tenure_months": 22,
+        "engagement_score": 4.8,
+        "acquisition_date": "2026-04-15",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-281",
+        "name": "Enterprise Partner 281",
+        "industry": "SaaS",
+        "product_tier": "Startup",
+        "tenure_months": 7,
+        "engagement_score": 4.0,
+        "acquisition_date": "2026-05-09",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-282",
+        "name": "Enterprise Partner 282",
+        "industry": "Healthcare",
+        "product_tier": "Growth",
+        "tenure_months": 16,
+        "engagement_score": 2.8,
+        "acquisition_date": "2026-04-17",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-283",
+        "name": "Enterprise Partner 283",
+        "industry": "E-commerce",
+        "product_tier": "Startup",
+        "tenure_months": 20,
+        "engagement_score": 8.5,
+        "acquisition_date": "2026-03-29",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-284",
+        "name": "Enterprise Partner 284",
+        "industry": "Fintech",
+        "product_tier": "Enterprise",
+        "tenure_months": 9,
+        "engagement_score": 4.1,
+        "acquisition_date": "2026-06-03",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-285",
+        "name": "Enterprise Partner 285",
+        "industry": "SaaS",
+        "product_tier": "Enterprise",
+        "tenure_months": 6,
+        "engagement_score": 4.0,
+        "acquisition_date": "2026-02-08",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-286",
+        "name": "Enterprise Partner 286",
+        "industry": "Fintech",
+        "product_tier": "Growth",
+        "tenure_months": 9,
+        "engagement_score": 2.1,
+        "acquisition_date": "2026-01-16",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-287",
+        "name": "Enterprise Partner 287",
+        "industry": "SaaS",
+        "product_tier": "Startup",
+        "tenure_months": 11,
+        "engagement_score": 3.8,
+        "acquisition_date": "2026-03-10",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-288",
+        "name": "Enterprise Partner 288",
+        "industry": "SaaS",
+        "product_tier": "Growth",
+        "tenure_months": 24,
+        "engagement_score": 5.0,
+        "acquisition_date": "2026-05-23",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-289",
+        "name": "Enterprise Partner 289",
+        "industry": "E-commerce",
+        "product_tier": "Startup",
+        "tenure_months": 24,
+        "engagement_score": 8.1,
+        "acquisition_date": "2026-03-30",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-290",
+        "name": "Enterprise Partner 290",
+        "industry": "Logistics",
+        "product_tier": "Growth",
+        "tenure_months": 8,
+        "engagement_score": 5.7,
+        "acquisition_date": "2026-03-08",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-291",
+        "name": "Enterprise Partner 291",
+        "industry": "E-commerce",
+        "product_tier": "Startup",
+        "tenure_months": 4,
+        "engagement_score": 3.5,
+        "acquisition_date": "2026-02-27",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-292",
+        "name": "Enterprise Partner 292",
+        "industry": "SaaS",
+        "product_tier": "Enterprise",
+        "tenure_months": 2,
+        "engagement_score": 3.2,
+        "acquisition_date": "2026-02-02",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-293",
+        "name": "Enterprise Partner 293",
+        "industry": "SaaS",
+        "product_tier": "Growth",
+        "tenure_months": 20,
+        "engagement_score": 5.1,
+        "acquisition_date": "2026-03-19",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-294",
+        "name": "Enterprise Partner 294",
+        "industry": "Fintech",
+        "product_tier": "Growth",
+        "tenure_months": 1,
+        "engagement_score": 9.8,
+        "acquisition_date": "2026-01-15",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-295",
+        "name": "Enterprise Partner 295",
+        "industry": "E-commerce",
+        "product_tier": "Startup",
+        "tenure_months": 6,
+        "engagement_score": 7.5,
+        "acquisition_date": "2026-04-19",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-296",
+        "name": "Enterprise Partner 296",
+        "industry": "E-commerce",
+        "product_tier": "Growth",
+        "tenure_months": 10,
+        "engagement_score": 5.3,
+        "acquisition_date": "2026-02-10",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-297",
+        "name": "Enterprise Partner 297",
+        "industry": "Healthcare",
+        "product_tier": "Growth",
+        "tenure_months": 23,
+        "engagement_score": 7.2,
+        "acquisition_date": "2026-02-01",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-298",
+        "name": "Enterprise Partner 298",
+        "industry": "Healthcare",
+        "product_tier": "Startup",
+        "tenure_months": 9,
+        "engagement_score": 2.2,
+        "acquisition_date": "2026-02-12",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-299",
+        "name": "Enterprise Partner 299",
+        "industry": "Logistics",
+        "product_tier": "Enterprise",
+        "tenure_months": 18,
+        "engagement_score": 3.4,
+        "acquisition_date": "2026-03-20",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-300",
+        "name": "Enterprise Partner 300",
+        "industry": "E-commerce",
+        "product_tier": "Enterprise",
+        "tenure_months": 20,
+        "engagement_score": 3.9,
+        "acquisition_date": "2026-03-04",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-301",
+        "name": "Enterprise Partner 301",
+        "industry": "Fintech",
+        "product_tier": "Startup",
+        "tenure_months": 9,
+        "engagement_score": 10.0,
+        "acquisition_date": "2026-05-01",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-302",
+        "name": "Enterprise Partner 302",
+        "industry": "Logistics",
+        "product_tier": "Startup",
+        "tenure_months": 24,
+        "engagement_score": 9.2,
+        "acquisition_date": "2026-01-26",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-303",
+        "name": "Enterprise Partner 303",
+        "industry": "Logistics",
+        "product_tier": "Enterprise",
+        "tenure_months": 11,
+        "engagement_score": 2.0,
+        "acquisition_date": "2026-04-12",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-304",
+        "name": "Enterprise Partner 304",
+        "industry": "Fintech",
+        "product_tier": "Growth",
+        "tenure_months": 22,
+        "engagement_score": 2.5,
+        "acquisition_date": "2026-01-17",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-305",
+        "name": "Enterprise Partner 305",
+        "industry": "E-commerce",
+        "product_tier": "Enterprise",
+        "tenure_months": 3,
+        "engagement_score": 9.2,
+        "acquisition_date": "2026-02-21",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-306",
+        "name": "Enterprise Partner 306",
+        "industry": "Fintech",
+        "product_tier": "Growth",
+        "tenure_months": 16,
+        "engagement_score": 3.8,
+        "acquisition_date": "2026-05-05",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-307",
+        "name": "Enterprise Partner 307",
+        "industry": "Fintech",
+        "product_tier": "Startup",
+        "tenure_months": 15,
+        "engagement_score": 9.2,
+        "acquisition_date": "2026-03-11",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-308",
+        "name": "Enterprise Partner 308",
+        "industry": "SaaS",
+        "product_tier": "Enterprise",
+        "tenure_months": 9,
+        "engagement_score": 3.2,
+        "acquisition_date": "2026-04-27",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-309",
+        "name": "Enterprise Partner 309",
+        "industry": "Fintech",
+        "product_tier": "Startup",
+        "tenure_months": 11,
+        "engagement_score": 2.1,
+        "acquisition_date": "2026-04-05",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-310",
+        "name": "Enterprise Partner 310",
+        "industry": "Logistics",
+        "product_tier": "Startup",
+        "tenure_months": 13,
+        "engagement_score": 7.1,
+        "acquisition_date": "2026-03-28",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-311",
+        "name": "Enterprise Partner 311",
+        "industry": "E-commerce",
+        "product_tier": "Startup",
+        "tenure_months": 10,
+        "engagement_score": 3.2,
+        "acquisition_date": "2026-05-25",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-312",
+        "name": "Enterprise Partner 312",
+        "industry": "SaaS",
+        "product_tier": "Startup",
+        "tenure_months": 23,
+        "engagement_score": 4.5,
+        "acquisition_date": "2026-04-19",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-313",
+        "name": "Enterprise Partner 313",
+        "industry": "Healthcare",
+        "product_tier": "Enterprise",
+        "tenure_months": 14,
+        "engagement_score": 8.7,
+        "acquisition_date": "2026-01-28",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-314",
+        "name": "Enterprise Partner 314",
+        "industry": "Healthcare",
+        "product_tier": "Startup",
+        "tenure_months": 2,
+        "engagement_score": 9.2,
+        "acquisition_date": "2026-04-25",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-315",
+        "name": "Enterprise Partner 315",
+        "industry": "SaaS",
+        "product_tier": "Growth",
+        "tenure_months": 9,
+        "engagement_score": 4.3,
+        "acquisition_date": "2026-04-20",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-316",
+        "name": "Enterprise Partner 316",
+        "industry": "Logistics",
+        "product_tier": "Enterprise",
+        "tenure_months": 15,
+        "engagement_score": 3.5,
+        "acquisition_date": "2026-04-11",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-317",
+        "name": "Enterprise Partner 317",
+        "industry": "E-commerce",
+        "product_tier": "Growth",
+        "tenure_months": 19,
+        "engagement_score": 4.0,
+        "acquisition_date": "2026-04-02",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-318",
+        "name": "Enterprise Partner 318",
+        "industry": "E-commerce",
+        "product_tier": "Enterprise",
+        "tenure_months": 15,
+        "engagement_score": 6.0,
+        "acquisition_date": "2026-01-21",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-319",
+        "name": "Enterprise Partner 319",
+        "industry": "SaaS",
+        "product_tier": "Enterprise",
+        "tenure_months": 24,
+        "engagement_score": 3.0,
+        "acquisition_date": "2026-05-16",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-320",
+        "name": "Enterprise Partner 320",
+        "industry": "Logistics",
+        "product_tier": "Enterprise",
+        "tenure_months": 3,
+        "engagement_score": 8.9,
+        "acquisition_date": "2026-03-20",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-321",
+        "name": "Enterprise Partner 321",
+        "industry": "Fintech",
+        "product_tier": "Startup",
+        "tenure_months": 7,
+        "engagement_score": 5.0,
+        "acquisition_date": "2026-01-21",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-322",
+        "name": "Enterprise Partner 322",
+        "industry": "Fintech",
+        "product_tier": "Startup",
+        "tenure_months": 9,
+        "engagement_score": 2.6,
+        "acquisition_date": "2026-01-25",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-323",
+        "name": "Enterprise Partner 323",
+        "industry": "Healthcare",
+        "product_tier": "Growth",
+        "tenure_months": 18,
+        "engagement_score": 3.4,
+        "acquisition_date": "2026-03-18",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-324",
+        "name": "Enterprise Partner 324",
+        "industry": "Healthcare",
+        "product_tier": "Startup",
+        "tenure_months": 8,
+        "engagement_score": 5.1,
+        "acquisition_date": "2026-01-20",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-325",
+        "name": "Enterprise Partner 325",
+        "industry": "SaaS",
+        "product_tier": "Startup",
+        "tenure_months": 15,
+        "engagement_score": 6.2,
+        "acquisition_date": "2026-05-11",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-326",
+        "name": "Enterprise Partner 326",
+        "industry": "Healthcare",
+        "product_tier": "Growth",
+        "tenure_months": 20,
+        "engagement_score": 2.1,
+        "acquisition_date": "2026-04-30",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-327",
+        "name": "Enterprise Partner 327",
+        "industry": "SaaS",
+        "product_tier": "Enterprise",
+        "tenure_months": 14,
+        "engagement_score": 5.8,
+        "acquisition_date": "2026-04-22",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-328",
+        "name": "Enterprise Partner 328",
+        "industry": "Healthcare",
+        "product_tier": "Enterprise",
+        "tenure_months": 15,
+        "engagement_score": 8.4,
+        "acquisition_date": "2026-03-24",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-329",
+        "name": "Enterprise Partner 329",
+        "industry": "Logistics",
+        "product_tier": "Enterprise",
+        "tenure_months": 1,
+        "engagement_score": 9.1,
+        "acquisition_date": "2026-03-20",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-330",
+        "name": "Enterprise Partner 330",
+        "industry": "Healthcare",
+        "product_tier": "Enterprise",
+        "tenure_months": 23,
+        "engagement_score": 5.6,
+        "acquisition_date": "2026-01-10",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-331",
+        "name": "Enterprise Partner 331",
+        "industry": "SaaS",
+        "product_tier": "Startup",
+        "tenure_months": 4,
+        "engagement_score": 3.1,
+        "acquisition_date": "2026-02-03",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-332",
+        "name": "Enterprise Partner 332",
+        "industry": "E-commerce",
+        "product_tier": "Startup",
+        "tenure_months": 5,
+        "engagement_score": 9.5,
+        "acquisition_date": "2026-03-03",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-333",
+        "name": "Enterprise Partner 333",
+        "industry": "E-commerce",
+        "product_tier": "Enterprise",
+        "tenure_months": 22,
+        "engagement_score": 2.4,
+        "acquisition_date": "2026-01-26",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-334",
+        "name": "Enterprise Partner 334",
+        "industry": "Fintech",
+        "product_tier": "Enterprise",
+        "tenure_months": 12,
+        "engagement_score": 2.3,
+        "acquisition_date": "2026-05-05",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-335",
+        "name": "Enterprise Partner 335",
+        "industry": "E-commerce",
+        "product_tier": "Growth",
+        "tenure_months": 20,
+        "engagement_score": 9.7,
+        "acquisition_date": "2026-04-30",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-336",
+        "name": "Enterprise Partner 336",
+        "industry": "SaaS",
+        "product_tier": "Growth",
+        "tenure_months": 4,
+        "engagement_score": 5.7,
+        "acquisition_date": "2026-03-30",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-337",
+        "name": "Enterprise Partner 337",
+        "industry": "SaaS",
+        "product_tier": "Enterprise",
+        "tenure_months": 20,
+        "engagement_score": 8.3,
+        "acquisition_date": "2026-03-14",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-338",
+        "name": "Enterprise Partner 338",
+        "industry": "Healthcare",
+        "product_tier": "Startup",
+        "tenure_months": 12,
+        "engagement_score": 4.2,
+        "acquisition_date": "2026-05-10",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-339",
+        "name": "Enterprise Partner 339",
+        "industry": "SaaS",
+        "product_tier": "Growth",
+        "tenure_months": 9,
+        "engagement_score": 6.7,
+        "acquisition_date": "2026-01-30",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-340",
+        "name": "Enterprise Partner 340",
+        "industry": "Healthcare",
+        "product_tier": "Startup",
+        "tenure_months": 20,
+        "engagement_score": 6.6,
+        "acquisition_date": "2026-02-22",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-341",
+        "name": "Enterprise Partner 341",
+        "industry": "E-commerce",
+        "product_tier": "Startup",
+        "tenure_months": 13,
+        "engagement_score": 8.6,
+        "acquisition_date": "2026-02-18",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-342",
+        "name": "Enterprise Partner 342",
+        "industry": "Fintech",
+        "product_tier": "Growth",
+        "tenure_months": 3,
+        "engagement_score": 4.9,
+        "acquisition_date": "2026-03-24",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-343",
+        "name": "Enterprise Partner 343",
+        "industry": "SaaS",
+        "product_tier": "Growth",
+        "tenure_months": 2,
+        "engagement_score": 9.1,
+        "acquisition_date": "2026-03-27",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-344",
+        "name": "Enterprise Partner 344",
+        "industry": "Healthcare",
+        "product_tier": "Enterprise",
+        "tenure_months": 8,
+        "engagement_score": 8.6,
+        "acquisition_date": "2026-03-26",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-345",
+        "name": "Enterprise Partner 345",
+        "industry": "Healthcare",
+        "product_tier": "Startup",
+        "tenure_months": 16,
+        "engagement_score": 6.0,
+        "acquisition_date": "2026-05-23",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-346",
+        "name": "Enterprise Partner 346",
+        "industry": "E-commerce",
+        "product_tier": "Enterprise",
+        "tenure_months": 10,
+        "engagement_score": 9.4,
+        "acquisition_date": "2026-01-28",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-347",
+        "name": "Enterprise Partner 347",
+        "industry": "E-commerce",
+        "product_tier": "Startup",
+        "tenure_months": 6,
+        "engagement_score": 7.2,
+        "acquisition_date": "2026-05-18",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-348",
+        "name": "Enterprise Partner 348",
+        "industry": "SaaS",
+        "product_tier": "Startup",
+        "tenure_months": 17,
+        "engagement_score": 5.8,
+        "acquisition_date": "2026-04-06",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-349",
+        "name": "Enterprise Partner 349",
+        "industry": "E-commerce",
+        "product_tier": "Startup",
+        "tenure_months": 23,
+        "engagement_score": 2.2,
+        "acquisition_date": "2026-02-05",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-350",
+        "name": "Enterprise Partner 350",
+        "industry": "Fintech",
+        "product_tier": "Startup",
+        "tenure_months": 21,
+        "engagement_score": 7.0,
+        "acquisition_date": "2026-01-13",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-351",
+        "name": "Enterprise Partner 351",
+        "industry": "SaaS",
+        "product_tier": "Startup",
+        "tenure_months": 18,
+        "engagement_score": 7.7,
+        "acquisition_date": "2026-04-27",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-352",
+        "name": "Enterprise Partner 352",
+        "industry": "E-commerce",
+        "product_tier": "Growth",
+        "tenure_months": 17,
+        "engagement_score": 4.7,
+        "acquisition_date": "2026-01-23",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-353",
+        "name": "Enterprise Partner 353",
+        "industry": "E-commerce",
+        "product_tier": "Enterprise",
+        "tenure_months": 23,
+        "engagement_score": 5.7,
+        "acquisition_date": "2026-02-12",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-354",
+        "name": "Enterprise Partner 354",
+        "industry": "E-commerce",
+        "product_tier": "Growth",
+        "tenure_months": 3,
+        "engagement_score": 9.9,
+        "acquisition_date": "2026-03-25",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-355",
+        "name": "Enterprise Partner 355",
+        "industry": "SaaS",
+        "product_tier": "Growth",
+        "tenure_months": 13,
+        "engagement_score": 5.4,
+        "acquisition_date": "2026-05-23",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-356",
+        "name": "Enterprise Partner 356",
+        "industry": "Healthcare",
+        "product_tier": "Growth",
+        "tenure_months": 7,
+        "engagement_score": 4.4,
+        "acquisition_date": "2026-05-20",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-357",
+        "name": "Enterprise Partner 357",
+        "industry": "SaaS",
+        "product_tier": "Enterprise",
+        "tenure_months": 4,
+        "engagement_score": 2.2,
+        "acquisition_date": "2026-01-25",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-358",
+        "name": "Enterprise Partner 358",
+        "industry": "E-commerce",
+        "product_tier": "Startup",
+        "tenure_months": 17,
+        "engagement_score": 6.8,
+        "acquisition_date": "2026-04-12",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-359",
+        "name": "Enterprise Partner 359",
+        "industry": "SaaS",
+        "product_tier": "Startup",
+        "tenure_months": 3,
+        "engagement_score": 10.0,
+        "acquisition_date": "2026-04-24",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-360",
+        "name": "Enterprise Partner 360",
+        "industry": "Healthcare",
+        "product_tier": "Enterprise",
+        "tenure_months": 19,
+        "engagement_score": 8.7,
+        "acquisition_date": "2026-04-17",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-361",
+        "name": "Enterprise Partner 361",
+        "industry": "Healthcare",
+        "product_tier": "Growth",
+        "tenure_months": 10,
+        "engagement_score": 9.7,
+        "acquisition_date": "2026-04-27",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-362",
+        "name": "Enterprise Partner 362",
+        "industry": "Healthcare",
+        "product_tier": "Growth",
+        "tenure_months": 20,
+        "engagement_score": 8.3,
+        "acquisition_date": "2026-03-10",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-363",
+        "name": "Enterprise Partner 363",
+        "industry": "Healthcare",
+        "product_tier": "Startup",
+        "tenure_months": 9,
+        "engagement_score": 2.1,
+        "acquisition_date": "2026-01-11",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-364",
+        "name": "Enterprise Partner 364",
+        "industry": "Healthcare",
+        "product_tier": "Startup",
+        "tenure_months": 24,
+        "engagement_score": 9.8,
+        "acquisition_date": "2026-02-27",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-365",
+        "name": "Enterprise Partner 365",
+        "industry": "Logistics",
+        "product_tier": "Growth",
+        "tenure_months": 14,
+        "engagement_score": 4.0,
+        "acquisition_date": "2026-04-05",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-366",
+        "name": "Enterprise Partner 366",
+        "industry": "Fintech",
+        "product_tier": "Enterprise",
+        "tenure_months": 16,
+        "engagement_score": 3.9,
+        "acquisition_date": "2026-02-11",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-367",
+        "name": "Enterprise Partner 367",
+        "industry": "Logistics",
+        "product_tier": "Startup",
+        "tenure_months": 18,
+        "engagement_score": 7.2,
+        "acquisition_date": "2026-01-07",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-368",
+        "name": "Enterprise Partner 368",
+        "industry": "E-commerce",
+        "product_tier": "Growth",
+        "tenure_months": 11,
+        "engagement_score": 5.2,
+        "acquisition_date": "2026-04-14",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-369",
+        "name": "Enterprise Partner 369",
+        "industry": "Logistics",
+        "product_tier": "Startup",
+        "tenure_months": 17,
+        "engagement_score": 8.4,
+        "acquisition_date": "2026-03-09",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-370",
+        "name": "Enterprise Partner 370",
+        "industry": "SaaS",
+        "product_tier": "Enterprise",
+        "tenure_months": 19,
+        "engagement_score": 9.9,
+        "acquisition_date": "2026-03-26",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-371",
+        "name": "Enterprise Partner 371",
+        "industry": "E-commerce",
+        "product_tier": "Startup",
+        "tenure_months": 8,
+        "engagement_score": 8.4,
+        "acquisition_date": "2026-05-24",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-372",
+        "name": "Enterprise Partner 372",
+        "industry": "Healthcare",
+        "product_tier": "Enterprise",
+        "tenure_months": 5,
+        "engagement_score": 4.2,
+        "acquisition_date": "2026-01-28",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-373",
+        "name": "Enterprise Partner 373",
+        "industry": "Healthcare",
+        "product_tier": "Startup",
+        "tenure_months": 17,
+        "engagement_score": 2.3,
+        "acquisition_date": "2026-03-02",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-374",
+        "name": "Enterprise Partner 374",
+        "industry": "Logistics",
+        "product_tier": "Startup",
+        "tenure_months": 10,
+        "engagement_score": 3.1,
+        "acquisition_date": "2026-03-09",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-375",
+        "name": "Enterprise Partner 375",
+        "industry": "Healthcare",
+        "product_tier": "Growth",
+        "tenure_months": 21,
+        "engagement_score": 6.2,
+        "acquisition_date": "2026-02-18",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-376",
+        "name": "Enterprise Partner 376",
+        "industry": "Healthcare",
+        "product_tier": "Growth",
+        "tenure_months": 12,
+        "engagement_score": 8.9,
+        "acquisition_date": "2026-06-02",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-377",
+        "name": "Enterprise Partner 377",
+        "industry": "Logistics",
+        "product_tier": "Growth",
+        "tenure_months": 14,
+        "engagement_score": 7.2,
+        "acquisition_date": "2026-05-19",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-378",
+        "name": "Enterprise Partner 378",
+        "industry": "Healthcare",
+        "product_tier": "Startup",
+        "tenure_months": 10,
+        "engagement_score": 6.0,
+        "acquisition_date": "2026-01-10",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-379",
+        "name": "Enterprise Partner 379",
+        "industry": "Fintech",
+        "product_tier": "Startup",
+        "tenure_months": 14,
+        "engagement_score": 5.8,
+        "acquisition_date": "2026-01-15",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-380",
+        "name": "Enterprise Partner 380",
+        "industry": "Healthcare",
+        "product_tier": "Growth",
+        "tenure_months": 14,
+        "engagement_score": 6.9,
+        "acquisition_date": "2026-04-05",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-381",
+        "name": "Enterprise Partner 381",
+        "industry": "SaaS",
+        "product_tier": "Enterprise",
+        "tenure_months": 17,
+        "engagement_score": 9.3,
+        "acquisition_date": "2026-03-05",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-382",
+        "name": "Enterprise Partner 382",
+        "industry": "Healthcare",
+        "product_tier": "Enterprise",
+        "tenure_months": 16,
+        "engagement_score": 4.4,
+        "acquisition_date": "2026-01-31",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-383",
+        "name": "Enterprise Partner 383",
+        "industry": "Healthcare",
+        "product_tier": "Startup",
+        "tenure_months": 9,
+        "engagement_score": 5.7,
+        "acquisition_date": "2026-02-13",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-384",
+        "name": "Enterprise Partner 384",
+        "industry": "SaaS",
+        "product_tier": "Enterprise",
+        "tenure_months": 16,
+        "engagement_score": 2.4,
+        "acquisition_date": "2026-01-25",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-385",
+        "name": "Enterprise Partner 385",
+        "industry": "SaaS",
+        "product_tier": "Startup",
+        "tenure_months": 14,
+        "engagement_score": 6.6,
+        "acquisition_date": "2026-04-02",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-386",
+        "name": "Enterprise Partner 386",
+        "industry": "SaaS",
+        "product_tier": "Growth",
+        "tenure_months": 18,
+        "engagement_score": 8.1,
+        "acquisition_date": "2026-05-21",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-387",
+        "name": "Enterprise Partner 387",
+        "industry": "E-commerce",
+        "product_tier": "Startup",
+        "tenure_months": 18,
+        "engagement_score": 7.2,
+        "acquisition_date": "2026-01-17",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-388",
+        "name": "Enterprise Partner 388",
+        "industry": "E-commerce",
+        "product_tier": "Growth",
+        "tenure_months": 7,
+        "engagement_score": 7.1,
+        "acquisition_date": "2026-04-12",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-389",
+        "name": "Enterprise Partner 389",
+        "industry": "Logistics",
+        "product_tier": "Growth",
+        "tenure_months": 4,
+        "engagement_score": 8.4,
+        "acquisition_date": "2026-02-09",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-390",
+        "name": "Enterprise Partner 390",
+        "industry": "Healthcare",
+        "product_tier": "Enterprise",
+        "tenure_months": 16,
+        "engagement_score": 2.8,
+        "acquisition_date": "2026-05-13",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-391",
+        "name": "Enterprise Partner 391",
+        "industry": "Healthcare",
+        "product_tier": "Growth",
+        "tenure_months": 15,
+        "engagement_score": 4.9,
+        "acquisition_date": "2026-04-20",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-392",
+        "name": "Enterprise Partner 392",
+        "industry": "SaaS",
+        "product_tier": "Enterprise",
+        "tenure_months": 12,
+        "engagement_score": 2.4,
+        "acquisition_date": "2026-05-25",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-393",
+        "name": "Enterprise Partner 393",
+        "industry": "Healthcare",
+        "product_tier": "Enterprise",
+        "tenure_months": 3,
+        "engagement_score": 6.0,
+        "acquisition_date": "2026-03-20",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-394",
+        "name": "Enterprise Partner 394",
+        "industry": "Logistics",
+        "product_tier": "Enterprise",
+        "tenure_months": 7,
+        "engagement_score": 7.1,
+        "acquisition_date": "2026-05-17",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-395",
+        "name": "Enterprise Partner 395",
+        "industry": "E-commerce",
+        "product_tier": "Startup",
+        "tenure_months": 10,
+        "engagement_score": 5.4,
+        "acquisition_date": "2026-02-13",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-396",
+        "name": "Enterprise Partner 396",
+        "industry": "E-commerce",
+        "product_tier": "Growth",
+        "tenure_months": 8,
+        "engagement_score": 3.9,
+        "acquisition_date": "2026-06-02",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-397",
+        "name": "Enterprise Partner 397",
+        "industry": "E-commerce",
+        "product_tier": "Enterprise",
+        "tenure_months": 17,
+        "engagement_score": 8.1,
+        "acquisition_date": "2026-03-17",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-398",
+        "name": "Enterprise Partner 398",
+        "industry": "Logistics",
+        "product_tier": "Growth",
+        "tenure_months": 23,
+        "engagement_score": 5.7,
+        "acquisition_date": "2026-03-25",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-399",
+        "name": "Enterprise Partner 399",
+        "industry": "Healthcare",
+        "product_tier": "Enterprise",
+        "tenure_months": 18,
+        "engagement_score": 9.7,
+        "acquisition_date": "2026-03-01",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-400",
+        "name": "Enterprise Partner 400",
+        "industry": "E-commerce",
+        "product_tier": "Growth",
+        "tenure_months": 5,
+        "engagement_score": 6.7,
+        "acquisition_date": "2026-05-31",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-401",
+        "name": "Enterprise Partner 401",
+        "industry": "Logistics",
+        "product_tier": "Startup",
+        "tenure_months": 4,
+        "engagement_score": 2.1,
+        "acquisition_date": "2026-01-14",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-402",
+        "name": "Enterprise Partner 402",
+        "industry": "Healthcare",
+        "product_tier": "Growth",
+        "tenure_months": 11,
+        "engagement_score": 8.8,
+        "acquisition_date": "2026-06-01",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-403",
+        "name": "Enterprise Partner 403",
+        "industry": "SaaS",
+        "product_tier": "Startup",
+        "tenure_months": 11,
+        "engagement_score": 5.0,
+        "acquisition_date": "2026-01-04",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-404",
+        "name": "Enterprise Partner 404",
+        "industry": "E-commerce",
+        "product_tier": "Enterprise",
+        "tenure_months": 21,
+        "engagement_score": 6.1,
+        "acquisition_date": "2026-02-15",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-405",
+        "name": "Enterprise Partner 405",
+        "industry": "Logistics",
+        "product_tier": "Enterprise",
+        "tenure_months": 22,
+        "engagement_score": 6.5,
+        "acquisition_date": "2026-02-28",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-406",
+        "name": "Enterprise Partner 406",
+        "industry": "Logistics",
+        "product_tier": "Enterprise",
+        "tenure_months": 13,
+        "engagement_score": 4.8,
+        "acquisition_date": "2026-03-02",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-407",
+        "name": "Enterprise Partner 407",
+        "industry": "SaaS",
+        "product_tier": "Growth",
+        "tenure_months": 19,
+        "engagement_score": 8.1,
+        "acquisition_date": "2026-03-07",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-408",
+        "name": "Enterprise Partner 408",
+        "industry": "Fintech",
+        "product_tier": "Startup",
+        "tenure_months": 8,
+        "engagement_score": 4.4,
+        "acquisition_date": "2026-02-27",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-409",
+        "name": "Enterprise Partner 409",
+        "industry": "SaaS",
+        "product_tier": "Startup",
+        "tenure_months": 14,
+        "engagement_score": 8.6,
+        "acquisition_date": "2026-05-15",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-410",
+        "name": "Enterprise Partner 410",
+        "industry": "Logistics",
+        "product_tier": "Startup",
+        "tenure_months": 23,
+        "engagement_score": 2.5,
+        "acquisition_date": "2026-05-22",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-411",
+        "name": "Enterprise Partner 411",
+        "industry": "Logistics",
+        "product_tier": "Startup",
+        "tenure_months": 8,
+        "engagement_score": 3.6,
+        "acquisition_date": "2026-04-16",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-412",
+        "name": "Enterprise Partner 412",
+        "industry": "Healthcare",
+        "product_tier": "Enterprise",
+        "tenure_months": 8,
+        "engagement_score": 2.3,
+        "acquisition_date": "2026-05-30",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-413",
+        "name": "Enterprise Partner 413",
+        "industry": "Healthcare",
+        "product_tier": "Growth",
+        "tenure_months": 11,
+        "engagement_score": 7.6,
+        "acquisition_date": "2026-03-05",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-414",
+        "name": "Enterprise Partner 414",
+        "industry": "Fintech",
+        "product_tier": "Growth",
+        "tenure_months": 22,
+        "engagement_score": 4.6,
+        "acquisition_date": "2026-02-27",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-415",
+        "name": "Enterprise Partner 415",
+        "industry": "SaaS",
+        "product_tier": "Enterprise",
+        "tenure_months": 13,
+        "engagement_score": 6.3,
+        "acquisition_date": "2026-03-02",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-416",
+        "name": "Enterprise Partner 416",
+        "industry": "SaaS",
+        "product_tier": "Growth",
+        "tenure_months": 22,
+        "engagement_score": 4.6,
+        "acquisition_date": "2026-04-03",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-417",
+        "name": "Enterprise Partner 417",
+        "industry": "E-commerce",
+        "product_tier": "Enterprise",
+        "tenure_months": 21,
+        "engagement_score": 8.5,
+        "acquisition_date": "2026-04-02",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-418",
+        "name": "Enterprise Partner 418",
+        "industry": "Fintech",
+        "product_tier": "Startup",
+        "tenure_months": 19,
+        "engagement_score": 8.8,
+        "acquisition_date": "2026-03-07",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-419",
+        "name": "Enterprise Partner 419",
+        "industry": "Fintech",
+        "product_tier": "Startup",
+        "tenure_months": 18,
+        "engagement_score": 8.2,
+        "acquisition_date": "2026-03-30",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-420",
+        "name": "Enterprise Partner 420",
+        "industry": "SaaS",
+        "product_tier": "Enterprise",
+        "tenure_months": 1,
+        "engagement_score": 5.6,
+        "acquisition_date": "2026-01-23",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-421",
+        "name": "Enterprise Partner 421",
+        "industry": "SaaS",
+        "product_tier": "Enterprise",
+        "tenure_months": 18,
+        "engagement_score": 2.7,
+        "acquisition_date": "2026-02-25",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-422",
+        "name": "Enterprise Partner 422",
+        "industry": "Logistics",
+        "product_tier": "Startup",
+        "tenure_months": 22,
+        "engagement_score": 2.7,
+        "acquisition_date": "2026-02-21",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-423",
+        "name": "Enterprise Partner 423",
+        "industry": "Healthcare",
+        "product_tier": "Growth",
+        "tenure_months": 20,
+        "engagement_score": 4.0,
+        "acquisition_date": "2026-02-18",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-424",
+        "name": "Enterprise Partner 424",
+        "industry": "Fintech",
+        "product_tier": "Growth",
+        "tenure_months": 3,
+        "engagement_score": 2.9,
+        "acquisition_date": "2026-05-14",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-425",
+        "name": "Enterprise Partner 425",
+        "industry": "E-commerce",
+        "product_tier": "Enterprise",
+        "tenure_months": 18,
+        "engagement_score": 8.2,
+        "acquisition_date": "2026-01-08",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-426",
+        "name": "Enterprise Partner 426",
+        "industry": "Fintech",
+        "product_tier": "Growth",
+        "tenure_months": 17,
+        "engagement_score": 4.1,
+        "acquisition_date": "2026-04-16",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-427",
+        "name": "Enterprise Partner 427",
+        "industry": "E-commerce",
+        "product_tier": "Enterprise",
+        "tenure_months": 14,
+        "engagement_score": 4.0,
+        "acquisition_date": "2026-01-28",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-428",
+        "name": "Enterprise Partner 428",
+        "industry": "Healthcare",
+        "product_tier": "Enterprise",
+        "tenure_months": 15,
+        "engagement_score": 8.8,
+        "acquisition_date": "2026-01-21",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-429",
+        "name": "Enterprise Partner 429",
+        "industry": "Logistics",
+        "product_tier": "Startup",
+        "tenure_months": 18,
+        "engagement_score": 4.6,
+        "acquisition_date": "2026-04-10",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-430",
+        "name": "Enterprise Partner 430",
+        "industry": "Logistics",
+        "product_tier": "Startup",
+        "tenure_months": 1,
+        "engagement_score": 4.6,
+        "acquisition_date": "2026-02-17",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-431",
+        "name": "Enterprise Partner 431",
+        "industry": "Fintech",
+        "product_tier": "Growth",
+        "tenure_months": 23,
+        "engagement_score": 2.6,
+        "acquisition_date": "2026-05-04",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-432",
+        "name": "Enterprise Partner 432",
+        "industry": "Fintech",
+        "product_tier": "Enterprise",
+        "tenure_months": 18,
+        "engagement_score": 9.1,
+        "acquisition_date": "2026-04-07",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-433",
+        "name": "Enterprise Partner 433",
+        "industry": "Healthcare",
+        "product_tier": "Startup",
+        "tenure_months": 10,
+        "engagement_score": 8.5,
+        "acquisition_date": "2026-04-25",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-434",
+        "name": "Enterprise Partner 434",
+        "industry": "Logistics",
+        "product_tier": "Startup",
+        "tenure_months": 23,
+        "engagement_score": 9.2,
+        "acquisition_date": "2026-02-04",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-435",
+        "name": "Enterprise Partner 435",
+        "industry": "E-commerce",
+        "product_tier": "Enterprise",
+        "tenure_months": 12,
+        "engagement_score": 5.5,
+        "acquisition_date": "2026-02-09",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-436",
+        "name": "Enterprise Partner 436",
+        "industry": "Logistics",
+        "product_tier": "Startup",
+        "tenure_months": 2,
+        "engagement_score": 3.5,
+        "acquisition_date": "2026-05-28",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-437",
+        "name": "Enterprise Partner 437",
+        "industry": "Healthcare",
+        "product_tier": "Startup",
+        "tenure_months": 5,
+        "engagement_score": 9.2,
+        "acquisition_date": "2026-01-05",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-438",
+        "name": "Enterprise Partner 438",
+        "industry": "Healthcare",
+        "product_tier": "Startup",
+        "tenure_months": 11,
+        "engagement_score": 4.0,
+        "acquisition_date": "2026-01-27",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-439",
+        "name": "Enterprise Partner 439",
+        "industry": "Healthcare",
+        "product_tier": "Startup",
+        "tenure_months": 13,
+        "engagement_score": 6.8,
+        "acquisition_date": "2026-04-28",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-440",
+        "name": "Enterprise Partner 440",
+        "industry": "Fintech",
+        "product_tier": "Enterprise",
+        "tenure_months": 11,
+        "engagement_score": 6.3,
+        "acquisition_date": "2026-02-13",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-441",
+        "name": "Enterprise Partner 441",
+        "industry": "Healthcare",
+        "product_tier": "Growth",
+        "tenure_months": 11,
+        "engagement_score": 5.0,
+        "acquisition_date": "2026-01-05",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-442",
+        "name": "Enterprise Partner 442",
+        "industry": "E-commerce",
+        "product_tier": "Startup",
+        "tenure_months": 7,
+        "engagement_score": 9.3,
+        "acquisition_date": "2026-03-06",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-443",
+        "name": "Enterprise Partner 443",
+        "industry": "Healthcare",
+        "product_tier": "Growth",
+        "tenure_months": 9,
+        "engagement_score": 5.2,
+        "acquisition_date": "2026-05-15",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-444",
+        "name": "Enterprise Partner 444",
+        "industry": "SaaS",
+        "product_tier": "Growth",
+        "tenure_months": 9,
+        "engagement_score": 7.1,
+        "acquisition_date": "2026-02-17",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-445",
+        "name": "Enterprise Partner 445",
+        "industry": "Fintech",
+        "product_tier": "Enterprise",
+        "tenure_months": 19,
+        "engagement_score": 2.3,
+        "acquisition_date": "2026-05-10",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-446",
+        "name": "Enterprise Partner 446",
+        "industry": "E-commerce",
+        "product_tier": "Startup",
+        "tenure_months": 22,
+        "engagement_score": 6.7,
+        "acquisition_date": "2026-04-10",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-447",
+        "name": "Enterprise Partner 447",
+        "industry": "Fintech",
+        "product_tier": "Startup",
+        "tenure_months": 1,
+        "engagement_score": 2.5,
+        "acquisition_date": "2026-03-23",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-448",
+        "name": "Enterprise Partner 448",
+        "industry": "SaaS",
+        "product_tier": "Growth",
+        "tenure_months": 18,
+        "engagement_score": 5.0,
+        "acquisition_date": "2026-03-17",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-449",
+        "name": "Enterprise Partner 449",
+        "industry": "Logistics",
+        "product_tier": "Growth",
+        "tenure_months": 15,
+        "engagement_score": 7.9,
+        "acquisition_date": "2026-05-24",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-450",
+        "name": "Enterprise Partner 450",
+        "industry": "E-commerce",
+        "product_tier": "Enterprise",
+        "tenure_months": 3,
+        "engagement_score": 6.0,
+        "acquisition_date": "2026-04-06",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-451",
+        "name": "Enterprise Partner 451",
+        "industry": "E-commerce",
+        "product_tier": "Enterprise",
+        "tenure_months": 17,
+        "engagement_score": 7.9,
+        "acquisition_date": "2026-03-31",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-452",
+        "name": "Enterprise Partner 452",
+        "industry": "Healthcare",
+        "product_tier": "Startup",
+        "tenure_months": 17,
+        "engagement_score": 8.4,
+        "acquisition_date": "2026-01-12",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-453",
+        "name": "Enterprise Partner 453",
+        "industry": "SaaS",
+        "product_tier": "Startup",
+        "tenure_months": 12,
+        "engagement_score": 7.2,
+        "acquisition_date": "2026-01-29",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-454",
+        "name": "Enterprise Partner 454",
+        "industry": "Logistics",
+        "product_tier": "Enterprise",
+        "tenure_months": 18,
+        "engagement_score": 5.6,
+        "acquisition_date": "2026-05-05",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-455",
+        "name": "Enterprise Partner 455",
+        "industry": "SaaS",
+        "product_tier": "Growth",
+        "tenure_months": 21,
+        "engagement_score": 2.8,
+        "acquisition_date": "2026-02-14",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-456",
+        "name": "Enterprise Partner 456",
+        "industry": "E-commerce",
+        "product_tier": "Startup",
+        "tenure_months": 20,
+        "engagement_score": 4.7,
+        "acquisition_date": "2026-02-06",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-457",
+        "name": "Enterprise Partner 457",
+        "industry": "SaaS",
+        "product_tier": "Growth",
+        "tenure_months": 6,
+        "engagement_score": 4.3,
+        "acquisition_date": "2026-03-18",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-458",
+        "name": "Enterprise Partner 458",
+        "industry": "Logistics",
+        "product_tier": "Startup",
+        "tenure_months": 5,
+        "engagement_score": 3.3,
+        "acquisition_date": "2026-04-23",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-459",
+        "name": "Enterprise Partner 459",
+        "industry": "Fintech",
+        "product_tier": "Enterprise",
+        "tenure_months": 6,
+        "engagement_score": 4.4,
+        "acquisition_date": "2026-04-12",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-460",
+        "name": "Enterprise Partner 460",
+        "industry": "Logistics",
+        "product_tier": "Enterprise",
+        "tenure_months": 21,
+        "engagement_score": 8.1,
+        "acquisition_date": "2026-03-18",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-461",
+        "name": "Enterprise Partner 461",
+        "industry": "SaaS",
+        "product_tier": "Startup",
+        "tenure_months": 23,
+        "engagement_score": 3.5,
+        "acquisition_date": "2026-02-15",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-462",
+        "name": "Enterprise Partner 462",
+        "industry": "Logistics",
+        "product_tier": "Startup",
+        "tenure_months": 21,
+        "engagement_score": 7.2,
+        "acquisition_date": "2026-01-27",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-463",
+        "name": "Enterprise Partner 463",
+        "industry": "SaaS",
+        "product_tier": "Growth",
+        "tenure_months": 7,
+        "engagement_score": 6.9,
+        "acquisition_date": "2026-03-10",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-464",
+        "name": "Enterprise Partner 464",
+        "industry": "E-commerce",
+        "product_tier": "Startup",
+        "tenure_months": 2,
+        "engagement_score": 9.3,
+        "acquisition_date": "2026-01-05",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-465",
+        "name": "Enterprise Partner 465",
+        "industry": "Healthcare",
+        "product_tier": "Growth",
+        "tenure_months": 7,
+        "engagement_score": 8.6,
+        "acquisition_date": "2026-04-11",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-466",
+        "name": "Enterprise Partner 466",
+        "industry": "SaaS",
+        "product_tier": "Enterprise",
+        "tenure_months": 22,
+        "engagement_score": 2.4,
+        "acquisition_date": "2026-03-04",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-467",
+        "name": "Enterprise Partner 467",
+        "industry": "Fintech",
+        "product_tier": "Growth",
+        "tenure_months": 9,
+        "engagement_score": 2.4,
+        "acquisition_date": "2026-02-06",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-468",
+        "name": "Enterprise Partner 468",
+        "industry": "Healthcare",
+        "product_tier": "Enterprise",
+        "tenure_months": 3,
+        "engagement_score": 6.8,
+        "acquisition_date": "2026-03-08",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-469",
+        "name": "Enterprise Partner 469",
+        "industry": "Fintech",
+        "product_tier": "Growth",
+        "tenure_months": 22,
+        "engagement_score": 2.4,
+        "acquisition_date": "2026-04-06",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-470",
+        "name": "Enterprise Partner 470",
+        "industry": "Healthcare",
+        "product_tier": "Startup",
+        "tenure_months": 9,
+        "engagement_score": 3.8,
+        "acquisition_date": "2026-01-06",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-471",
+        "name": "Enterprise Partner 471",
+        "industry": "SaaS",
+        "product_tier": "Startup",
+        "tenure_months": 22,
+        "engagement_score": 9.8,
+        "acquisition_date": "2026-04-18",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-472",
+        "name": "Enterprise Partner 472",
+        "industry": "Fintech",
+        "product_tier": "Startup",
+        "tenure_months": 9,
+        "engagement_score": 7.2,
+        "acquisition_date": "2026-04-09",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-473",
+        "name": "Enterprise Partner 473",
+        "industry": "Fintech",
+        "product_tier": "Startup",
+        "tenure_months": 20,
+        "engagement_score": 7.0,
+        "acquisition_date": "2026-01-07",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-474",
+        "name": "Enterprise Partner 474",
+        "industry": "Logistics",
+        "product_tier": "Enterprise",
+        "tenure_months": 23,
+        "engagement_score": 5.2,
+        "acquisition_date": "2026-02-13",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-475",
+        "name": "Enterprise Partner 475",
+        "industry": "SaaS",
+        "product_tier": "Enterprise",
+        "tenure_months": 22,
+        "engagement_score": 7.9,
+        "acquisition_date": "2026-02-19",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-476",
+        "name": "Enterprise Partner 476",
+        "industry": "Fintech",
+        "product_tier": "Startup",
+        "tenure_months": 15,
+        "engagement_score": 3.7,
+        "acquisition_date": "2026-01-04",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-477",
+        "name": "Enterprise Partner 477",
+        "industry": "SaaS",
+        "product_tier": "Enterprise",
+        "tenure_months": 4,
+        "engagement_score": 4.8,
+        "acquisition_date": "2026-05-31",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-478",
+        "name": "Enterprise Partner 478",
+        "industry": "Fintech",
+        "product_tier": "Startup",
+        "tenure_months": 4,
+        "engagement_score": 6.9,
+        "acquisition_date": "2026-05-14",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-479",
+        "name": "Enterprise Partner 479",
+        "industry": "SaaS",
+        "product_tier": "Enterprise",
+        "tenure_months": 24,
+        "engagement_score": 7.4,
+        "acquisition_date": "2026-02-15",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-480",
+        "name": "Enterprise Partner 480",
+        "industry": "Fintech",
+        "product_tier": "Enterprise",
+        "tenure_months": 12,
+        "engagement_score": 3.6,
+        "acquisition_date": "2026-05-08",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-481",
+        "name": "Enterprise Partner 481",
+        "industry": "SaaS",
+        "product_tier": "Growth",
+        "tenure_months": 24,
+        "engagement_score": 6.4,
+        "acquisition_date": "2026-05-19",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-482",
+        "name": "Enterprise Partner 482",
+        "industry": "Fintech",
+        "product_tier": "Enterprise",
+        "tenure_months": 6,
+        "engagement_score": 6.4,
+        "acquisition_date": "2026-04-19",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-483",
+        "name": "Enterprise Partner 483",
+        "industry": "Healthcare",
+        "product_tier": "Growth",
+        "tenure_months": 6,
+        "engagement_score": 4.5,
+        "acquisition_date": "2026-01-08",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-484",
+        "name": "Enterprise Partner 484",
+        "industry": "Fintech",
+        "product_tier": "Growth",
+        "tenure_months": 12,
+        "engagement_score": 3.0,
+        "acquisition_date": "2026-05-16",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-485",
+        "name": "Enterprise Partner 485",
+        "industry": "SaaS",
+        "product_tier": "Growth",
+        "tenure_months": 1,
+        "engagement_score": 3.2,
+        "acquisition_date": "2026-05-14",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-486",
+        "name": "Enterprise Partner 486",
+        "industry": "Logistics",
+        "product_tier": "Growth",
+        "tenure_months": 22,
+        "engagement_score": 5.6,
+        "acquisition_date": "2026-05-19",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-487",
+        "name": "Enterprise Partner 487",
+        "industry": "Fintech",
+        "product_tier": "Enterprise",
+        "tenure_months": 22,
+        "engagement_score": 8.4,
+        "acquisition_date": "2026-04-04",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-488",
+        "name": "Enterprise Partner 488",
+        "industry": "Fintech",
+        "product_tier": "Startup",
+        "tenure_months": 11,
+        "engagement_score": 9.4,
+        "acquisition_date": "2026-05-16",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-489",
+        "name": "Enterprise Partner 489",
+        "industry": "Logistics",
+        "product_tier": "Growth",
+        "tenure_months": 17,
+        "engagement_score": 5.3,
+        "acquisition_date": "2026-04-09",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-490",
+        "name": "Enterprise Partner 490",
+        "industry": "Logistics",
+        "product_tier": "Enterprise",
+        "tenure_months": 13,
+        "engagement_score": 3.3,
+        "acquisition_date": "2026-01-14",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-491",
+        "name": "Enterprise Partner 491",
+        "industry": "E-commerce",
+        "product_tier": "Growth",
+        "tenure_months": 15,
+        "engagement_score": 2.3,
+        "acquisition_date": "2026-04-27",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-492",
+        "name": "Enterprise Partner 492",
+        "industry": "Fintech",
+        "product_tier": "Enterprise",
+        "tenure_months": 4,
+        "engagement_score": 6.7,
+        "acquisition_date": "2026-03-20",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-493",
+        "name": "Enterprise Partner 493",
+        "industry": "Healthcare",
+        "product_tier": "Startup",
+        "tenure_months": 12,
+        "engagement_score": 7.4,
+        "acquisition_date": "2026-05-29",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-494",
+        "name": "Enterprise Partner 494",
+        "industry": "Healthcare",
+        "product_tier": "Growth",
+        "tenure_months": 20,
+        "engagement_score": 6.0,
+        "acquisition_date": "2026-03-14",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-495",
+        "name": "Enterprise Partner 495",
+        "industry": "Healthcare",
+        "product_tier": "Startup",
+        "tenure_months": 20,
+        "engagement_score": 8.7,
+        "acquisition_date": "2026-03-06",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-496",
+        "name": "Enterprise Partner 496",
+        "industry": "E-commerce",
+        "product_tier": "Growth",
+        "tenure_months": 19,
+        "engagement_score": 9.3,
+        "acquisition_date": "2026-05-12",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-497",
+        "name": "Enterprise Partner 497",
+        "industry": "Fintech",
+        "product_tier": "Enterprise",
+        "tenure_months": 12,
+        "engagement_score": 3.0,
+        "acquisition_date": "2026-04-12",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-498",
+        "name": "Enterprise Partner 498",
+        "industry": "Fintech",
+        "product_tier": "Enterprise",
+        "tenure_months": 12,
+        "engagement_score": 3.1,
+        "acquisition_date": "2026-02-28",
+        "is_churned": true
+    },
+    {
+        "customer_id": "CUST-499",
+        "name": "Enterprise Partner 499",
+        "industry": "Healthcare",
+        "product_tier": "Enterprise",
+        "tenure_months": 23,
+        "engagement_score": 6.9,
+        "acquisition_date": "2026-04-26",
+        "is_churned": false
+    },
+    {
+        "customer_id": "CUST-500",
+        "name": "Enterprise Partner 500",
+        "industry": "Logistics",
+        "product_tier": "Enterprise",
+        "tenure_months": 4,
+        "engagement_score": 7.9,
+        "acquisition_date": "2026-03-19",
+        "is_churned": false
+    }
+]

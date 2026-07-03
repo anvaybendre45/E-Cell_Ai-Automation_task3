@@ -1,0 +1,25 @@
+# Web Framework & API Server
+fastapi>=0.110.0
+uvicorn>=0.28.0
+pydantic>=2.6.0
+
+# AI, Multi-Agent Orchestration & Memory
+langchain>=0.1.0
+langgraph>=0.0.20
+google-genai>=0.1.0       # Required if choosing Option B (Gemini 1.5 Flash)
+# langchain-community     # Uncomment if using Option A (Ollama local inference)
+
+# Data Processing & Analytics
+pandas>=2.2.0
+numpy>=1.26.0
+scikit-learn>=1.4.0       # For advanced churn scoring metrics
+
+# UI & Dashboards
+streamlit>=1.32.0
+plotly>=5.19.0
+requests>=2.31.0
+
+# Security & Infrastructure
+python-dotenv>=1.0.1      # Secure configuration loading
+passlib[bcrypt]>=1.7.4   # For RBAC user password hashing
+pyjwt>=2.8.0              # For RBAC token management

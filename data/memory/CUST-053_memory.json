@@ -1,0 +1,9 @@
+{
+    "short_term_buffer": [
+        {
+            "user": "Hey, our automated webhook events are dropping completely.",
+            "assistant": "Checking server clusters now."
+        }
+    ],
+    "long_term_preferences": "Customer is highly technical, uses advanced webhook routing profiles."
+}
