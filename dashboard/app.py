@@ -1,10 +1,20 @@
 # C:\AI_CRM_project\dashboard\app.py
+import os
+import sys
+
+# Inject the repository root folder into Python's module search paths
+repo_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+if repo_root not in sys.path:
+    sys.path.insert(0, repo_root)
+
+# Now standard imports will resolve beautifully both locally and in the cloud
 import streamlit as st
 import pandas as pd
 import plotly.express as px
 from src.cohort import CohortAnalysisEngine
 from src.heart import HEARTEvaluationDashboard
 
+# Keep the rest of your dashboard code exactly the same...
 st.set_page_config(page_title="AI-CRM Analytics Dashboard", layout="wide")
 
 cohort_engine = CohortAnalysisEngine()
