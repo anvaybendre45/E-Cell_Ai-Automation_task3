@@ -2,8 +2,8 @@
 import json
 import pandas as pd
 
-CUSTOMERS_FILE = "C:\\AI_CRM_project\\data\\customers.json"
-TICKETS_FILE = "C:\\AI_CRM_project\\data\\tickets.json"
+CUSTOMERS_FILE = "data/customers.json"
+TICKETS_FILE = "data/tickets.json"
 
 class HEARTEvaluationDashboard:
     def __init__(self):
