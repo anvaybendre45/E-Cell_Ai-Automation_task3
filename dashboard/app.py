@@ -1,4 +1,3 @@
-# C:\AI_CRM_project\dashboard\app.py
 import os
 import sys
 import json
@@ -29,9 +28,6 @@ st.markdown("Live computation engine tracking customer data pipelines alongside 
 
 tab1, tab2 = st.tabs(["🎮 Interactive Deployment Endpoints Sandbox", "📊 Performance & Stage 6 Evaluation"])
 
-# ==========================================
-# TAB 1: INTERACTIVE DEPLOYMENT ENDPOINTS
-# ==========================================
 with tab1:
     st.header("⚡ Live API Endpoint Router Simulators")
     st.markdown("Test input payloads and view structured JSON outputs containing the required audit metadata properties.")
@@ -171,9 +167,7 @@ with tab1:
             else:
                 st.caption("Awaiting endpoint execution payload triggers...")
 
-# ==========================================
-# TAB 2: PERFORMANCE & EVALUATION VISUALS
-# ==========================================
+
 with tab2:
     st.header("❤️ Core System Business Pulse Scorecard")
     heart_metrics = heart_engine.calculate_live_heart_metrics()
