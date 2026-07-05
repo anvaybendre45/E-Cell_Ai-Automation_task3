@@ -1,4 +1,3 @@
-# C:\AI_CRM_project\src\memory.py
 import json
 import os
 
