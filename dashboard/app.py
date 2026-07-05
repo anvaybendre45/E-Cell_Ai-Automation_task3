@@ -1,8 +1,6 @@
 # C:\AI_CRM_project\dashboard\app.py
 import os
 import sys
-import json
-import random
 
 # Inject the repository root folder into Python's module search paths
 repo_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -12,30 +10,27 @@ if repo_root not in sys.path:
 import streamlit as st
 import pandas as pd
 import plotly.express as px
-import plotly.graph_objects as go
+from src.crm import CRMEngine
 from src.cohort import CohortAnalysisEngine
 from src.heart import HEARTEvaluationDashboard
 
-# Set up page configuration
-st.set_page_config(page_title="Enterprise AI-CRM Hub", layout="wide")
-
-# Initialize our analytical engines
+# Initialize our core data engines
+crm_engine = CRMEngine()
 cohort_engine = CohortAnalysisEngine()
 heart_engine = HEARTEvaluationDashboard()
 
+st.set_page_config(page_title="Enterprise AI-CRM Hub", layout="wide")
 st.title("🚀 Enterprise AI-CRM Hub & Evaluation Pipeline")
-st.markdown("Automated metrics suite processing active customer lifecycle streams and real-time validation layers.")
 
-# Create separate operational and evaluation tabs
 tab1, tab2 = st.tabs(["📊 Live Analytics Dashboard", "🎯 Stage 6: System Evaluation Report"])
 
 # ==========================================
-# TAB 1: LIVE ANALYTICS VIEW
+# TAB 1: LIVE OPERATIONAL Metric & TICKET ENTRY
 # ==========================================
 with tab1:
+    # --- GOOGLE HEART FRAMEWORK SCORECARD ---
     st.header("❤️ Google HEART Framework Scorecard")
     heart_metrics = heart_engine.calculate_live_heart_metrics()
-
     cols = st.columns(5)
     for idx, (metric_name, value) in enumerate(heart_metrics.items()):
         with cols[idx]:
@@ -43,21 +38,53 @@ with tab1:
 
     st.divider()
 
+    # --- NEW: RAISE YOUR OWN TICKET FORM ---
+    st.header("🎫 Raise a Customer Support Ticket")
+    st.markdown("Submit an operational issue query directly into the CRM tracking ledger.")
+    
+    # Wrap input fields into a batched execution form container
+    with st.form("support_ticket_form", clear_on_submit=True):
+        col1, col2 = st.columns(2)
+        with col1:
+            input_cust_id = st.text_input("Customer ID", value="CUST-053", help="Example valid ID from the repository dataset.")
+            input_title = st.text_input("Ticket Summary/Title", placeholder="e.g., Database connection timed out.")
+        with col2:
+            input_priority = st.selectbox("Ticket Urgency Tier", ["Low", "Medium", "High", "Critical"])
+            input_desc = st.text_area("Detailed Ticket Description")
+            
+        # Every form requires a definitive submit button execution line
+        submitted = st.form_submit_button("Submit Support Ticket")
+        
+        if submitted:
+            if not input_title or not input_desc:
+                st.error("❌ Submission failed: Title and Description fields cannot be blank!")
+            else:
+                # Wrap inputs down into a clean record format dictionary string mapping
+                new_ticket_payload = {
+                    "ticket_id": f"TCK-{random.randint(1000, 9999)}", # Generate dynamic validation identification numbers
+                    "customer_id": input_cust_id,
+                    "category": "Technical Bug",
+                    "priority": input_priority,
+                    "status": "Open",
+                    "interaction_history": f"[Initial Log] {input_title}: {input_desc}"
+                }
+                
+                # Execute our core CRM engine persistence hook writing directly onto the JSON arrays
+                crm_engine.create_ticket(new_ticket_payload)
+                st.success(f"🎉 Ticket successfully recorded into local storage! Generated Reference: {new_ticket_payload['ticket_id']}")
+
+    st.divider()
+    
+    # --- COHORT GRAPH SECTIONS ---
     left_col, right_col = st.columns(2)
     with left_col:
         st.subheader("Cohort Retention Curve Vector by Industry")
         cohort_data = cohort_engine.compute_cohort_retention()
-        
         plot_rows = []
         for industry, metrics in cohort_data.items():
             curve = metrics["retention_curve_pct"]
             for month_idx, pct in enumerate(curve):
-                plot_rows.append({
-                    "Industry": industry,
-                    "Timeline": f"Month {month_idx}",
-                    "Retention Rate (%)": pct
-                })
-        
+                plot_rows.append({"Industry": industry, "Timeline": f"Month {month_idx}", "Retention Rate (%)": pct})
         df_plot = pd.DataFrame(plot_rows)
         fig = px.line(df_plot, x="Timeline", y="Retention Rate (%)", color="Industry", markers=True)
         st.plotly_chart(fig, use_container_width=True)
@@ -65,17 +92,9 @@ with tab1:
     with right_col:
         st.subheader("Predictive Client Churn Risk Evaluation")
         predictions = cohort_engine.predict_churn_scores()
-        df_pred = pd.DataFrame(predictions)
-        st.dataframe(
-            df_pred.rename(columns={
-                "customer_id": "Client ID",
-                "name": "Corporate Identity Profile",
-                "engagement_score": "Engagement (1-10)",
-                "churn_probability_flag": "Predictive Risk"
-            }),
-            use_container_width=True,
-            hide_index=True
-        )
+        st.dataframe(pd.DataFrame(predictions), use_container_width=True, hide_index=True)
+
+# (Keep Tab 2 Evaluation metrics block exactly the same below)
 
 # ==========================================
 # TAB 2: SYSTEM EVALUATION REPORT (STAGE 6)
