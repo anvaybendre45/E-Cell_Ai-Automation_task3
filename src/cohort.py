@@ -1,4 +1,3 @@
-# C:\AI_CRM_project\src\cohort.py
 import json
 import pandas as pd
 
