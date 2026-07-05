@@ -3,15 +3,17 @@ import os
 import json
 from datetime import datetime
 
-CUSTOMERS_FILE = "C:\\AI_CRM_project\\data\\customers.json"
-TICKETS_FILE = "C:\\AI_CRM_project\\data\\tickets.json"
+# Change from absolute windows paths to clean relative paths
+CUSTOMERS_FILE = "data/customers.json"
+TICKETS_FILE = "data/tickets.json"
 
 class CRMEngine:
     def __init__(self):
         self.customers_path = CUSTOMERS_FILE
         self.tickets_path = TICKETS_FILE
         self._ensure_files_exist()
-
+        
+    # ... (Keep the exact rest of your class code completely identical) ...
     def _ensure_files_exist(self):
         """Ensures structural JSON files are present on disk."""
         os.makedirs(os.path.dirname(self.customers_path), exist_ok=True)
