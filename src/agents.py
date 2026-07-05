@@ -1,4 +1,3 @@
-# C:\AI_CRM_project\src\agents.py
 import os
 from google import genai
 from dotenv import load_dotenv
