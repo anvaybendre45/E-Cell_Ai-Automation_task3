@@ -1,15 +1,14 @@
-# C:\AI_CRM_project\notebooks\generate_data.py
 import os
 import json
 import random
 from datetime import datetime, timedelta
 from dotenv import load_dotenv
 
-# Step 1: Force load the environment configuration via absolute disk path
+# Force load the environment configuration via absolute disk path
 dotenv_path = "C:\\AI_CRM_project\\.env"
 load_dotenv(dotenv_path=dotenv_path)
 
-# Step 2: Extract key details and initialize the Google GenAI Engine safely
+# Extract key details and initialize the Google GenAI Engine safely
 llm_strategy = os.getenv("LLM_STRATEGY", "OPTION_B")
 api_key_val = os.getenv("GEMINI_API_KEY")
 client = None
