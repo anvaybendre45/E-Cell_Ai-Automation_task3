@@ -1,4 +1,3 @@
-# C:\AI_CRM_project\src\heart.py
 import json
 import pandas as pd
 
