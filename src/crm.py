@@ -1,4 +1,3 @@
-# C:\AI_CRM_project\src\crm.py
 import os
 import json
 from datetime import datetime
