@@ -1,3 +1,4 @@
+# C:\AI_CRM_project\dashboard\app.py
 import os
 import sys
 import json
@@ -12,7 +13,6 @@ if repo_root not in sys.path:
 import streamlit as st
 import pandas as pd
 import plotly.express as px
-import plotly.graph_objects as go
 from src.crm import CRMEngine
 from src.cohort import CohortAnalysisEngine
 from src.heart import HEARTEvaluationDashboard
@@ -28,6 +28,9 @@ st.markdown("Live computation engine tracking customer data pipelines alongside 
 
 tab1, tab2 = st.tabs(["🎮 Interactive Deployment Endpoints Sandbox", "📊 Performance & Stage 6 Evaluation"])
 
+# ==========================================
+# TAB 1: INTERACTIVE DEPLOYMENT ENDPOINTS
+# ==========================================
 with tab1:
     st.header("⚡ Live API Endpoint Router Simulators")
     st.markdown("Test input payloads and view structured JSON outputs containing the required audit metadata properties.")
@@ -66,18 +69,31 @@ with tab1:
         with col1:
             st.markdown("**Input Parameters:**")
             t_cust_id = st.text_input("Customer ID", value="CUST-053", key="t_cust_id")
-            t_title = st.text_input("Ticket Title", value="Webhook delivery loop breaking on 504 drop")
-            t_desc = st.text_area("Description Context", value="Intermittent payload timeouts observed across backend channels.")
+            t_title = st.text_input("Ticket Title", value="backend not working")
+            t_desc = st.text_area("Description Context", value="backend is unresponsive")
             t_prio = st.selectbox("Priority Ranking", ["Low", "Medium", "High", "Critical"])
             btn_tick = st.button("Execute POST /tickets/create")
         with col2:
             st.markdown("**Structured JSON Output (Verifiable Audit Schema):**")
             if btn_tick:
                 start_time = datetime.now()
+                generated_id = f"TCK-{random.randint(1000, 9999)}"
+                
+                new_ticket_payload = {
+                    "ticket_id": generated_id,
+                    "customer_id": t_cust_id,
+                    "category": "Technical Bug",
+                    "priority": t_prio,
+                    "status": "Open",
+                    "interaction_history": f"[Initial Log] {t_title}: {t_desc}"
+                }
+                crm_engine.create_ticket(new_ticket_payload)
+                
                 response = {
-                    "ticket_id": f"TCK-{random.randint(1000, 9999)}",
+                    "ticket_id": generated_id,
                     "category": "Technical Bug",
                     "assigned_agent": "AGT-902",
+                    "status": "Open",
                     "audit_metadata": {
                         "timestamp": datetime.now().isoformat(),
                         "confidence_score": 0.94,
@@ -85,9 +101,9 @@ with tab1:
                     }
                 }
                 st.json(response)
+                st.success(f"🎉 Ticket successfully recorded! Copy this ID for the summarizer: {generated_id}")
             else:
                 st.caption("Awaiting endpoint execution payload triggers...")
-
 
     # 3. POST /tickets/{id}/summarize
     with st.expander("🟩 **POST** `/tickets/{id}/summarize` - Multi-turn LLM Extraction Summarizer"):
@@ -101,19 +117,16 @@ with tab1:
             if btn_sum:
                 start_time = datetime.now()
                 
-                # --- NEW: PULL REAL DATA FROM THE JSON LEDGER VIA CURRENT DATABASE INSTANCE ---
-                # Search across active tickets to locate the text payload you generated
+                # Search across active tickets in the JSON ledger
                 with open(crm_engine.tickets_path, "r") as f:
                     try:
                         all_tickets = json.load(f)
                     except:
                         all_tickets = []
                 
-                # Attempt to find the matching ticket object
                 matched_ticket = next((t for t in all_tickets if t.get("ticket_id") == sum_tck_id), None)
                 
                 if matched_ticket:
-                    # Parse the description context you inputted
                     raw_desc = matched_ticket.get("interaction_history", "No description provided.")
                     ticket_title = matched_ticket.get("category", "General Query")
                     
@@ -128,11 +141,10 @@ with tab1:
                         }
                     }
                 else:
-                    # Fallback if the user types an ID that doesn't exist yet
                     response = {
                         "summary": "Fallback Default: Customer reported billing discrepancies.",
                         "key_issues": "Duplicate payment authorizations logged on external sync layer.",
-                        "suggested_response": "Verify Stripe event sequences.",
+                        "suggested_response": "Verify Stripe event sequences and manual credit alignment steps.",
                         "audit_metadata": {
                             "timestamp": datetime.now().isoformat(),
                             "confidence_score": 0.89,
@@ -197,7 +209,9 @@ with tab1:
             else:
                 st.caption("Awaiting endpoint execution payload triggers...")
 
-
+# ==========================================
+# TAB 2: PERFORMANCE & EVALUATION VISUALS
+# ==========================================
 with tab2:
     st.header("❤️ Core System Business Pulse Scorecard")
     heart_metrics = heart_engine.calculate_live_heart_metrics()
